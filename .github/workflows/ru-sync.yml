@@ -1,0 +1,106 @@
+name: RU Sync
+
+# Раз в 7 дней: если у оригинала вышел новый релиз vX.Y.Z, а ru-vX.Y.Z ещё нет —
+# влить его, перевести новые строки (кэш в ru-translate/), закоммитить, поставить тег
+# и запустить Release RU.
+#
+# Секрет RU_SYNC_TOKEN (необязательный): PAT с правами repo + workflow. Без него push
+# сделает GITHUB_TOKEN, но он не может пушить изменения в .github/workflows — если автор
+# поменяет свои workflow, синхронизация упадёт на push.
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # понедельник 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write           # gh workflow run release-ru.yml
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.RU_SYNC_TOKEN || github.token }}
+
+      - name: Find new upstream release
+        id: up
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=$(gh api repos/FreeProject089/BetterModsManager/releases/latest --jq .tag_name)
+          echo "upstream latest: $tag"
+          if git ls-remote --exit-code origin "refs/tags/ru-$tag" >/dev/null; then
+            echo "ru-$tag уже есть — делать нечего"
+            echo "new=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "new=true" >> "$GITHUB_OUTPUT"
+            echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Merge upstream release
+        if: steps.up.outputs.new == 'true'
+        env:
+          TAG: ${{ steps.up.outputs.tag }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/FreeProject089/BetterModsManager.git
+          git fetch --no-tags upstream "refs/tags/$TAG:refs/tags/up-$TAG"
+          if ! git merge --no-edit -m "Merge upstream $TAG" "up-$TAG"; then
+            # Скомпилированный frontend/js пересобирается ниже — его конфликты берём у оригинала.
+            conflicted=$(git diff --name-only --diff-filter=U)
+            other=$(echo "$conflicted" | grep -v '^frontend/js/' || true)
+            if [ -n "$other" ]; then
+              echo "::error::Конфликт слияния, нужна ручная правка:"; echo "$other"
+              exit 1
+            fi
+            echo "$conflicted" | xargs git checkout --theirs --
+            echo "$conflicted" | xargs git add --
+            git commit --no-edit
+          fi
+
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
+        if: steps.up.outputs.new == 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        if: steps.up.outputs.new == 'true'
+        with:
+          python-version: '3.12'
+
+      - name: Translate new strings
+        if: steps.up.outputs.new == 'true'
+        run: |
+          pip install -q argostranslate
+          python -c "
+          import argostranslate.package as p
+          p.update_package_index()
+          pk = [x for x in p.get_available_packages() if x.from_code == 'en' and x.to_code == 'ru'][0]
+          p.install_from_path(pk.download())"
+          python ru-translate/mt.py frontend/Lang/en.json ru-translate/ru_cache.json
+          python ru-translate/assemble.py
+
+      - name: Compile UI
+        if: steps.up.outputs.new == 'true'
+        run: |
+          npm ci --ignore-scripts --no-audit --no-fund
+          npx tsc --project frontend
+
+      - name: Commit, tag, push, start release
+        if: steps.up.outputs.new == 'true'
+        env:
+          TAG: ${{ steps.up.outputs.tag }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add -A frontend ru-translate
+          git diff --cached --quiet || git commit -m "RU: перевод для $TAG"
+          git tag "ru-$TAG"
+          git push origin HEAD:main "ru-$TAG"
+          # Тег, запушенный GITHUB_TOKEN, сам Release RU не запускает — запускаем явно.
+          gh workflow run release-ru.yml --ref "ru-$TAG"

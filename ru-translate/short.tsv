@@ -1,0 +1,4126 @@
+"{name}" disabled.	mod.deactivated
+"{name}" enabled.	mod.activated
+%TEMP%\bmm_mod_cache	docs.diagram.cache-management.n.EXTRACTED
+(active)	orderList.activeMark
+(copy)	sched.copySuffix
+(empty)	i18n.emptyValue
+(keep)	plugins.phKeep
+(no modpacks)	plugins.qtNoModpacks
+(no mods)	plugins.qtNoMods
+(no plugins)	plugins.qtNoPlugins
+(no profiles)	plugins.qtNoProfiles
+(optional)	plugins.phOptional
++ case	sched.switchAddCase
++ Elements	themes.tabElements
++ Folder	bench.addFolder
++ Profile…	plugins.addProfile
++ Rule	sched.ruleAdd
++{n} inside	sched.pg.inner
++{n} more	order.more
++{n} waiting	actjob.queued
+--bmm-* tokens	docs.diagram.theme-system.n.TOKENS
+--mod-worker process	docs.diagram.engine-threads.n.WORKER
+--no-ai	ai.api.held.killed
+.bmmbundle source	docs.diagram.app-catalog.n.BUNDLE
+.bmmbundle…	plugins.catPublish
+.bmmnav	docs.diagram.custom-pages.e.bmmnav
+.bmmnav import	docs.diagram.custom-pages.n.IMPORT
+.bmmorder file	orderList.shareFile
+.bmmscript file	docs.diagram.bmmscript-flow.n.FILE
+.bmp	docs.diagram.modpack-flow.e.bmp
+.DATABMM archive	docs.diagram.backup-system.n.DATABMM
+.MM Format	mm.formatTitle
+.MM Lists	nav.label.modlists
+.MM lists	tut.advanced.mm.title
+.mod-item	anim.selector.ph
+/issues	docs.diagram.telemetry-pipeline.e.issues
+1 change	stm.presets.changes1
+1 commit	credits.codeCommitOne
+1 entry	apps.create.sub.oneEntry
+1 file	sha.files1
+1 hour	notif.snooze1h
+1 min	bench.ui.range1m
+1 post	community.filter.countOne
+1 source	apps.sourcesBtnOne
+1 update	apps.updatesOne
+1-click installation	docs.basic.mm.q3
+1-Click Installation	docs.gallery.btn.oneClick
+1. Folder	sched.bk.dir
+1. Game	sched.gw.game
+1. Language	sched.scrEngine
+1. Plugin	sched.pa.plugin
+15 min	bench.ui.range15m
+2. Address	sched.cat.url
+2. Arguments	sched.cmdArgs
+2. Code	sched.scrCode
+2. Items	sched.list.value
+2. Key	sched.map.key
+2. Pattern	sched.tx.regex
+2. Type	sched.key.kind
+3. Headers	sched.wh.gHeaders
+3. Separator	sched.list.sep
+3. Value	sched.map.value
+30 days	history.retention.d30
+4 hours	notif.snooze4h
+4. Folders	sched.syncFolders
+5 min	bench.ui.range5m
+5. Passphrase	sched.bk.pass
+7 days	history.retention.d7
+90 days	history.retention.d90
+<backup folder>/_original/	docs.diagram.backup-system.n.ORIGINALS
+<code>bmm.read()</code> scopes	docs.pagesApi.scopesH
+<code>bmm.system.info()</code> returns	docs.pagesApi.sysShapeH
+<name>.lnk	docs.diagram.launch-packs.n.LNK
+_original/ backup	docs.diagram.mod-activation.n.BACKUP
+_original/ backups	docs.diagram.mod-architecture.n.BACKUP
+_synonyms	docs.diagram.i18n-system.e.synonyms
+A modpack	sched.idof.k.modpack
+a name	prof.need.name
+A plugin	sched.idof.k.plugin
+a question	docs.diagram.semantic-search.e.question
+A report	ai.lt.src.report
+a source	mod.add.needSource
+A website	nbx.kind.url
+A zip…	fbm.addZip
+About	settings.about
+Abstained	laya.dbg.abstained
+Accent	themes.tok.accent
+Accept	eula.accept
+Accepted	consent.choice.accepted
+accepted	docs.diagram.telemetry-pipeline.e.accepted
+Access	repo.hub.access
+ACCESS DENIED	repo.miniServerScriptFatalAccess
+Access denied	laya.cause.permission
+Access gate	docs.diagram.lightweight-architecture.n.ACCESS
+Access refused	docs.diagram.server-mode.n.DENIED
+account	repo.sshsrc.newUserPh
+Account password	repo.sshsrc.password
+Action	skd.step.action
+ACTION	repo.monColAction
+Action completed!	hub.action.complete
+Action Required	mapper.inputSubtitle
+Actions	plugins.genActions
+Activate	orderList.activateGo
+Activate ({n})	modpack.act.go
+Activate Anyway	conflict.activateAnyway
+Activate Profile	plugins.ep.activateProf
+Activate profile	plugins.actionActivateProfile
+Activate…	orderList.activate
+Activating mod	bench.step.activate
+Activating…	orderList.activating
+Activation	docs.modact.enable.title
+Activation cancelled	lib.cancelToastEnable
+Activation continues	docs.diagram.integrity-engine.n.ACTIVATE
+ACTIVATION FLOW	docs.modact.diagramLabel
+Activation History	lib.historyTitle
+Activation Order	lib.sortOrder
+Activation order	modpack.orderMode
+Active	themes.stateActive
+ACTIVE	mod.active
+active	plugins.cmpStatActive
+ACTIVE FILES	repo.monStatFiles
+Active Mods	plugins.ep.activeMods
+Active only	conflict.onlyActive
+ACTIVE PATCHES	dev.label.activePatches
+ACTIVE PROFILE	nav.activeProfile
+Active profile	plugins.genMultiProfile
+Active, #{n}	orderList.st.active
+Activity	docs.diagram.discord-rpc.n.ACTIVITY
+ADD	dev.btn.addWatcher
+Add	catsrc.editor.add
+add	sched.flow.palPick
+Add action	plugins.addAction
+Add app	apps.create.addApp
+Add Application	settings.appPicker.title
+Add Ban	repo.banManualAdd
+Add button	nbx.create
+Add cut	rstudio.cutadd
+Add element	themes.ceAddBtn
+Add everything	settings.catIndex.import
+Add fallback	repo.cfgAddSource
+Add files…	navedit.addFiles
+Add folder	plugins.addFolder
+Add it	sched.catEnt.add
+Add Mods	modpack.addMods
+Add mods	orderList.add
+Add notes	orderList.notesAdd
+Add one	mdd.addDesc
+Add selection	settings.appPicker.confirm
+Add step	anim.step.add
+Add tag	ai.lt.act.tag
+add, disabled	docs.diagram.bmmscript-flow.e.addDisabled
+add_mod	docs.diagram.mod-import.n.ADD
+added	repo.summaryAdded
+Added	tools.jsondiff.added
+added files	docs.diagram.faq-deleted-mod.e.addedFiles
+Added {f}.	plugins.assets.added
+Adding	modpack.adding
+Adding stopped	modpack.addStopped
+Address	catsrc.details.url
+Add…	settings.identity.authKeyAdd
+Admin Password	admin.password
+Admin password	plugins.fldAdminPass
+Adult content	ai.field.nsfw
+Advanced	settings.advanced
+Advanced mode	docs.diagram.perf-monitoring.n.ADVANCED
+Advanced Settings	repo.advancedSettings
+Advanced Tab	docs.search.advancedTab
+Advanced tools	repo.adv.title
+After	history.after
+after previous	anim.start.after
+after task	docs.diagram.scheduler.e.afterTask
+Afterwards	docs.diagram.crash-reporting.g.AFTER
+ago	sched.ago
+AI (Laya)	credits.group.ai
+AI (optional)	ai.settings.title
+AI client	docs.diagram.mcp-server.n.AI_CLIENT
+AI Integration	docs.mcp.q1
+AI switch	laya.dbg.master
+ai_core gate	docs.diagram.laya-pipeline.n.GATE
+ai_crash_digests	docs.diagram.laya-crash-analysis.n.DIGESTS
+ai_crash_label	docs.diagram.laya-crash-analysis.n.LABEL_CALL
+Algorithm	tools.hash.algo
+Align bottom	sched.flow.alignBottom
+Align left	sched.flow.alignLeft
+Align right	sched.flow.alignRight
+Align top	sched.flow.alignTop
+All	skd.kind.all
+ALL	repo.banFilterAll
+All ({n})	modpack.ui.pickAll
+All Actions	history.filter.all
+All categories	apps.filter.allCat
+all contested	docs.diagram.conflict-management.e.allContested
+All disks	res.allDisks
+all disks	res.src.all_disks
+All drives	security.scopeAll
+All favorites	apps.fav.allFavs
+All features	ai.lt.area.global
+All games	modpack.allGames
+All levels	dev.level.all
+all match	docs.diagram.integrity-engine.e.same
+All Mods	settings.shaRecalcAll
+All mods	sha.state.all
+all optional	apps.create.stepLookOpt
+all pages	themes.allPages
+All prices	apps.filter.allPrice
+All profiles	sha.scopeAll
+all profiles	modpack.ui.sourceAll
+All servers	srv.filterAllServers
+All sources	apps.fav.allSources
+All tags	lib.tagFilterAll
+All templates	sched.pg.all
+All tokens	themes.ed.secTokens
+All types	conflict.allTypes
+all work	stm.presets.allOps
+Allow	vfy.b.allow
+allowed	docs.diagram.deeplinks.e.allowed
+allowed sites	docs.diagram.custom-pages.e.origins
+ALREADY ADDED	modpack.alreadyAdded
+Already covered	repo.remoteReused
+Already followed	plugins.bundle.allAlready
+Already labelled?	docs.diagram.laya-crash-analysis.n.CACHED
+already on	modpack.act.tOn
+Already on	modpack.act.secOn
+Already present	mm.alreadyPresent
+already ran	sched.why.onceDone
+Already reported?	laya.fb.fDuplicate
+also hashed	docs.diagram.resumable-downloads.e.sameRule
+ALTERNATIVE	repo.badgeAlt
+Always	sched.cond.always
+Always shown	nbx.alwaysShown
+Always true.	sched.condd.always
+Amber	themes.tok.amber
+Ambiguous	orderList.q.ambiguous
+An address	apps.create.srcUrl
+An automation	sched.idof.k.task
+Analyse	plugins.inspectWord
+Analysis	crashmgr.analysis
+analytics_flush	docs.diagram.telemetry-pipeline.n.SEND
+analytics_queue.jsonl	docs.diagram.telemetry-pipeline.n.QUEUE
+analytics_track	docs.diagram.telemetry-pipeline.n.TRACK
+Analyze	crashmgr.analyze
+Analyzing conflicts...	conflict.loading
+Animation speed	themes.tok.anim-speed
+Animation Studio	anim.title
+Anomaly Detection	docs.basic.integrity.q2
+Anonymous	repo.notifClientAnonymous
+Another profile	modpack.ui.otherProfile
+Answer	docs.diagram.laya-pipeline.g.ANSWER
+Answer settings	docs.diagram.laya-pipeline.n.TUNING
+Answer strictness	ai.hub.tabAnswers
+Answer style	ai.lt.presetsAria
+Answer: {label}	ai.lt.out.answer
+Answers shown	ai.lt.f.top_k
+Anti-spam check…	fbm.pow
+Any	themes.modeAny
+any answer	docs.diagram.offline-mode.e.anyAnswer
+any catalog	sched.cond.kind.any
+Any file	plugins.assets.anyFile
+Any profile	orderList.anyProfile
+Any state	conflict.allStatuses
+API	plugins.tabScripts
+API equivalent	plugins.dlApiEquiv
+API health	plugins.actionApiHealth
+API key	ai.settings.externalKey
+API Port	settings.identity.apiPort
+API reference	docs.pagesApi.apiRefH
+API Tester	plugins.apiTester
+API Token	settings.identity.apiToken
+API URL	settings.identity.apiUrl
+App	sched.fldApp
+App background	themes.tok.bg-base
+App benchmark	docs.diagram.perf-monitoring.g.BENCH
+App Catalog	nav.label.apps
+App catalog	restore.s.apps
+App engine	laya.family.app_backend
+App ID	plugins.fldAppId
+app id	sched.appIdPh2
+app info	navedit.capRead
+App internals	docs.diagram.cat.internals
+app log	fbm.sumLogs
+App memory	laya.dbg.memory
+App mode	res.game
+app mode	res.byGame
+App permissions	plugins.actionAppPerms
+app running	docs.diagram.mcp-server.e.appRunning
+App Settings	settings.exportSettings
+App shell	credits.group.shell
+App source	repo.extras.kindApp
+App uninstalled	apps.uninstalled
+App updates	settings.autoUpdateTitle
+App wallpaper	themes.assetWallpaper
+App window	laya.family.app_ui
+Appearance	settings.group.look
+Appeared: {s}	snav.done.wait
+Append timestamp	plugins.optTimestamp
+APPLICATION	settings.appPicker.colApp
+Application	settings.group.app
+Application configuration	settings.subtitle
+Application Updates	docs.appUpdates
+Applied	stm.presets.applied
+Applied first	order.first
+Applied.	ai.suggest.applied
+applies	sched.rf.act.apply
+Apply	settings.identity.apiPortSave
+apply	docs.diagram.conflict-management.e.apply
+Apply ({n})	ai.lib.apply
+Apply changes	repo.update.apply
+Apply CSS	dev.btn.applyCss
+Apply it	tut.basics.modpacks.s3.title
+Apply Modlist	plugins.applyModalTitle
+Apply Modpack	modpack.apply
+Apply now	plugins.applyNow
+Apply order	order.apply
+Apply order…	orderList.apply
+Apply Plugin	plugins.ep.applyPlugin
+Apply selection	ai.suggest.apply
+APPLY STRUCTURE	mapper.apply
+Apply to	themes.gradTarget
+Apply {p}	stm.presets.applyP
+apply_direct_update	docs.diagram.update-system.n.DIRECT_APPLY
+apply_profile_background	docs.diagram.profile-customization.n.APPLY
+Applying modpack...	modpack.applying
+Applying update...	update.applyingUpdate
+Applying...	cv.applying
+Applying…	order.applying
+applyTheme	docs.diagram.theme-system.n.APPLY
+applyTranslations	docs.diagram.i18n-system.n.DOM
+APPROVE	repo.whitelistManualAdd
+Approve User	repo.whitelistAdd
+Approx. location	analytics.cat.geo
+APPROXIMATE	detail.cid.approximate
+Apps	apps.create.apps
+apps	sched.cond.kind.app
+apps_state.json	docs.diagram.app-catalog.n.STATE
+AppState	docs.diagram.code-stack.n.STATE
+ARCHITECTURE	docs.exploreArch
+Architecture	docs.modArchitecture
+Architecture Advice	docs.arch.advice.title
+Archive	mod.archiveBadge
+archive	docs.diagram.cache-management.e.archive
+Archive Explorer	mod.explorerTitle
+archived	tools.logs.archived
+Archived	order.archived
+archived mod	docs.diagram.faq-disk-full.e.archivedMod
+Archived mod	docs.diagram.mod-architecture.n.ARCHIVE
+Archived reports	tools.cache.t.crash_archive
+Area	laya.fb.fArea
+args	sched.phArgs
+Arguments	sched.gl.args
+arguments (space-separated)	sched.args
+armed	sched.arm.on
+Arrange	sched.flow.arrange
+Arrival	docs.diagram.deeplinks.g.ENTRY
+Ask	ai.ask.go
+Ask button	docs.diagram.semantic-search.e.askButton
+Ask Laya	ai.ask.title
+ask Laya	sched.permAi
+Ask now	sched.cond.try
+asked	plugins.perm.askedTag
+Asked again	consent.choice.reset
+Asked by	dlg.origin
+Asked for	credits.stackRequired
+asking…	sched.cond.trying
+Asset applied	themes.assetSet
+Asset Transfer	docs.dedicatedHosting.transfer
+assets	hub.assets.count
+assets/videos/tuto1_en.mp4	docs.videos.tuto1.offline
+assets/videos/tuto2_en.mp4	docs.videos.tuto2.offline
+Async runtime	docs.diagram.engine-threads.n.ASYNC
+at	sched.lblAt
+at logon	docs.diagram.lightweight-architecture.e.atLogon
+At once	res.col.par
+At root	mapper.pv.f.root
+at start	docs.diagram.theme-system.e.atStart
+Attach	fbm.attach
+attach	docs.diagram.crash-reporting.e.attach
+Attempt	sched.retry.attempt
+attempts	sched.retry.timesWord
+Author	detail.author
+Author name	plugins.fldAuthorName
+Author...	mod.authorPlaceholder
+Author:	repo.authorShort
+Author: optional.	tut.basics.scan.f.author
+Authorization required	plugins.serverRepoAuthTitle
+AUTHORIZE	repo.whitelistBtn
+Auto	settings.toolbarAuto
+auto	anim.autobadge
+Auto Backup	plugins.ep.exportAuto
+Auto start	plugins.fldAutoStart
+Auto-Center View	docs.search.autoCenter
+auto-run off	anim.import.autooff
+Auto-scan interval	settings.scanInterval
+Auto-update: OFF	plugins.autoUpdateOff
+Automatic	ai.draft.langAuto
+Automatic (recommended)	stm.gfx.mode.auto
+Automatic Backup	docs.modact.backup.title
+Automatic Detection	docs.updates.auto
+Automation	settings.group.automation
+Automation (.bmmpa)	sched.imp.k.automation
+Automation catalogues…	sched.pc.open
+Automation pack	plugins.pc.tplAutomation
+Automation templates	sched.pg.title
+automation(s) imported	sched.imported
+Automations	skd.kind.automation
+automations	sched.pc.tasks
+Automations ({n})	sched.pkg.revTasks
+Automations exported	sched.exported
+available	modpack.available
+Available 24/7	faq.vps.vps2
+Available actions	docs.scriptGenActions
+Available endpoints	plugins.apiEndpoints
+Available permissions	plugins.epAvailablePerms
+Available URLs	docs.dlUrlsTitle
+Available:	plugins.epAbout.permsAvail
+avg {v}	bench.ui.avg
+B	stm.unit.b
+b3:	docs.diagram.blake3-hashing.e.tagged
+b3:...	docs.diagram.blake3-hashing.e.b3
+Back	common.back
+Back button	sk.dev.back
+back {when}	notif.snoozedUntil
+Backend (image.rs)	docs.diagram.profile-customization.g.WORK
+Background	themes.background
+background	docs.diagram.engine-threads.e.background
+background colour	docs.pagesApi.scBg
+Background hasher	docs.diagram.mod-sync.n.WORKER
+Background hashing	settings.shaEnableLazy
+Background Image	prof.bgImage
+Background image	docs.diagram.profile-customization.n.PICK_BG
+Background jobs	notif.group.activity
+Background queue	docs.diagram.integrity-engine.n.QUEUE
+Background re-hash	docs.diagram.cache-management.n.HASH_QUEUE
+Background task	laya.cause.background_task
+Background threads	docs.diagram.engine-threads.n.BG
+Backup	storage.backupDir
+Backup folder	prof.backupDir
+Backup Folder	mod.openBackupFolder
+backup folder	sched.backupDirPh
+Backup path	plugins.fldBackupPath
+Backup System	docs.gallery.btn.backupSystem
+Backups	prof.backupDirLabel
+backups	stm.presets.role.backup
+Backups folder	tools.disk.backups
+Backups kept	repo.mini.backupKeep
+Backups/<profile id>	docs.diagram.profile-system.n.BACKUP_AUTO
+Bad signature	catsrc.sig.invalid
+Badge	themes.ed.tpl.badge
+Badge corners	themes.tok.radius-badge
+Balanced	res.p.balanced
+BAN	repo.banBtn
+Ban Management	repo.bansTitle
+Banned Users	repo.bannedListTitle
+Banner	themes.ed.tpl.banner
+Bans	repo.bans
+Bans manager	navedit.act.bans
+Bar pinned	lib.stickyHeaderOn
+Basic	docs.tab.basic
+Basics	themes.ed.secBasics
+Be Specific:	hub.guideSpecific
+Bearer token	docs.diagram.mcp-server.e.bearer
+Before	history.before
+Before sending	ai.report.title
+Beginner	hub.level.1
+Benchmark	bench.tabBench
+Benchmark cancelled	bench.cancelled
+Benchmark failed	bench.failed
+Benchmark finished	bench.done
+Benchmark results	analytics.collect.bench
+Benchmark Speed	storage.benchmark
+Benchmark started…	bench.deeplinkStart
+Benchmark views	bench.ui.tabsAria
+benchmark-point	docs.diagram.perf-monitoring.e.point
+Benchmarks	analytics.cat.bench
+Best match	ai.ask.best
+Best Practices	docs.gallery.btn.bestPractices
+Best throughput	bench.ui.bestTput
+BetaHub Integration	docs.crashReport.q3
+better	bench.ui.better
+Better*	iconpack.ours
+BetterCommunity	nav.community
+BetterCommunity notifications	settings.bcKey.title
+BetterCommunity server	docs.diagram.laya-pipeline.n.BC
+BetterCommunity site	credits.group.site
+BetterInstaller	credits.group.installer
+BetterInstaller check	docs.diagram.app-update.n.BI_CHECK
+BetterInstaller update	docs.diagram.app-update.n.BI_UPDATE
+between files	docs.diagram.resumable-downloads.e.between
+BLAKE3 (local)	docs.diagram.blake3-hashing.g.LOCAL
+BLAKE3 Fingerprints	docs.modpacks.sha256
+BLAKE3 Hashing	docs.gallery.btn.blake3
+blank	docs.diagram.profile-system.e.blank
+Blank	plugins.pc.tplBlank
+Blank page	navedit.tplBlank
+block	sched.bl.blockWord
+block name	sched.bl.namePh
+Blocked	repo.sig.chipBlocked
+blocking task	docs.diagram.engine-threads.e.blockingTask
+Blocks	sched.modeBricks
+Blog language	community.lang
+Blog tag	community.filter.label
+BM25 index	docs.diagram.semantic-search.n.BM25
+BMM	plugins.actionGroupBmm
+BMM badge	themes.ed.brandMarkBadge
+BMM control	skd.kind.element
+BMM CPU	res.cpuBmm
+BMM Crashed	crash.title
+BMM Docs	credits.group.docs
+BMM Icons	plugins.iconTabBuiltin
+BMM itself	plugins.epArea.system
+BMM logo	themes.ed.brandMarkLogo
+BMM page	nbx.builtin
+BMM self-update	docs.diagram.app-update.title
+BMM Tools	tut.other.palette.s5.title
+bmm-connectivity event	docs.diagram.offline-mode.n.EVENT
+bmm-mcp-server	docs.diagram.code-stack.n.MCP
+bmm:// equivalent:	plugins.epDlEquiv
+bmm:// link	consent.source.link
+bmm:// links	docs.diagram.security-system.n.LINKS
+bmm://api bridge	docs.diagram.deeplinks.n.API
+bmmpage://	docs.diagram.custom-pages.e.bmmpage
+bmmpage:// protocol	docs.diagram.custom-pages.n.PROTO
+bmms_compile	docs.diagram.bmmscript-flow.n.LEX
+bmms_decompile	docs.diagram.bmmscript-flow.n.DECOMPILE
+bmms_line_map	docs.diagram.bmmscript-flow.n.LINEMAP
+BMMScript	docs.diagram.bmmscript-flow.title
+BMM…	paths.pick
+Body	sched.http.body
+Body (JSON)	sched.api.body
+Body format	sched.wh.format
+Bold (Ctrl+B)	orderList.fmt.bold
+Border	themes.border
+Borders	themes.ed.grp.borders
+both enabled	ai.ask.bothOn
+both fail	docs.diagram.offline-mode.e.bothFail
+branch	sched.par.addBranch
+BRANCH {n}	sched.par.branch
+Brand colour	iconpack.auto
+Brands	iconpack.brands
+Break	sched.addBreak
+BREAK	sched.break
+Breakpoint removed	sched.bp.cleared
+Breakpoint set	sched.bp.set
+Bring back	settings.catIndex.readd
+Browse	prof.browse
+BROWSE	repo.browseBtn
+Browse Catalog	plugins.browseCatalog
+Browse files	mod.explorerBtn
+Browse templates…	sched.pg.open
+Browse…	settings.appPicker.browse
+Bubble transparency	settings.taskyOpacity
+Buffer KiB	res.col.buf
+Bug	fbm.kind.bug
+Bug reports	ai.lt.area.triage
+Bugs	betahub.tabBugs
+build	docs.diagram.docker-deployment.e.build
+Build	docs.diagram.modpack-flow.g.BUILD
+Build one	tut.order.lists.s3.title
+build_modpack_mod_ref	docs.diagram.modpack-flow.n.MOD_REF
+built in	sched.vp.from.builtin
+Built-in	themes.srcBuiltin
+built-in	themes.builtin
+Built-in Laya	ai.set2.clsEmbedded
+Built-in model	ai.gen.embTitle
+Built-in presets	docs.diagram.theme-system.n.BUILTIN
+Built-in server	docs.diagram.hosting-flow.n.BUILTIN
+Bulk enable	order.mode.label
+Bulleted list	orderList.fmt.ul
+bundled	plugins.bundledTag
+Bundled folders	plugins.pluginFolders
+Button	themes.ed.tpl.button
+Button corners	themes.tok.radius-btn
+Button links	docs.diagram.discord-rpc.n.LINKS
+Button name	nbx.namePh
+by	community.history.by
+C:\...\repo.json	repo.miniServerRepoPlaceholder
+C:\Backups\YourGame...	prof.backupDirPlaceholder
+C:\Games\YourGame...	prof.gameDirPlaceholder
+C:\Mods\YourGame...	prof.modsDirPlaceholder
+C:\path\to\file	sched.filePath
+Cache cleaner	tools.cache.name
+Cache Management	docs.gallery.btn.cacheManagement
+Calculating hashes...	mods.sha.calculating
+Calculating...	hashes.status.calculating
+Calibrate once	tut.other.storage.s2.title
+Call	docs.pagesApi.colCall
+Call it	sched.prof.newName
+Calls kept	laya.dbg.statCalls
+Came from	detail.origin
+Cancel	settings.appPicker.cancel
+cancel	docs.diagram.common.cancel
+Cancel action	mapper.cancelMapping
+Cancel all	lib.cancelAll
+Cancel Gen	plugins.ep.cancelGen
+Cancel gen	plugins.actionCancelGen
+Cancel Generation	repo.cancelExport
+Cancel Sync	plugins.ep.cancelSync
+Cancel sync	plugins.actionCancelSync
+Cancel update	repo.update.cancel
+Cancel {title}	activity.cancelOne
+Cancelled	history.cancelled
+Cancelled.	repo.errCancel
+Cancelling...	repo.export.cancelling
+Cancelling…	repo.cancelling
+Cap	stm.space.limitShort
+Capability	docs.pagesApi.thCap
+Caption (optional)	sched.nv.note
+Capture cancelled.	watcher.vcancel
+Capture frame	rstudio.framepreset
+Card corners	themes.tok.radius-card
+Card glow	themes.tok.card-glow
+Card preview	apps.create.pvCard
+Card shadow	themes.tok.shadow-card
+Careful	ai.lt.preset.prudent
+CASE	sched.switchCase
+Catalog	plugins.tabCatalog
+Catalog added	plugins.sourceAdded
+Catalog app	plugins.actionCatalogApp
+Catalog exported	themes.catalogExported
+Catalog index	settings.catIndex.title
+Catalog name	themes.catalogName
+Catalog order	apps.sort.default
+Catalog saved	plugins.catalogSaved
+catalog.json	plugins.export
+Catalogue	apps.create.step.info
+Catalogue bundle	repo.extras.kindBundle
+Catalogue cache	tools.cache.t.catalog_cache
+Catalogue diff	tools.jsondiff.name
+Catalogue entry	ai.draft.field.catalog
+Catalogue file	cm.jsonKind
+Catalogue followed.	cat.followed
+Catalogue id	sched.ci.id
+Catalogue name	mm.cat.name
+Catalogue removed.	cat.unfollowed
+Catalogue source	catsrc.details.sub
+Catalogue sources	apps.sources.title2
+Catalogues	modpack.cat.open
+Catalogues…	mm.cat.browse
+Categories	analytics.categories
+category	plugins.qtCatAppCat
+Category	apps.create.fCategory
+Category on?	docs.diagram.telemetry-pipeline.n.CATEGORY
+cause	sched.ai.crashCause
+Cause unknown	laya.cause.unknown
+CAUTION	update.alert.caution
+Chain broken	consent.chainBroken
+Chain intact	consent.chainOk
+Change	skd.change
+Change icon	nbx.iconChange
+Change it	sched.catEnt.update
+Change launcher	apps.changeLauncher
+changed	sk.modified
+Changed	tstudio.filterChanged
+changed hands	docs.diagram.conflict-management.e.changedHands
+Changed only	sk.changedOnly
+Changelog	settings.changelogTitle
+changes	sched.dr.e.change
+Changes	ai.draft.tabDiff
+Changes discarded	themes.discarded
+Check	apps.create.step.check
+check	docs.diagram.blake3-hashing.e.check
+Check again	ai.emb.recheck
+Check all	catsrc.act.check
+Check as	tools.validate.kind
+check every	sched.checkEvery
+Check every	sched.trRssEvery
+Check finished.	sha.done.title
+Check integrity	settings.shaOpenCenter
+Check Integrity	onboard.integrity.title
+Check now	repo.adv.checkNow
+Check stopped.	sha.done.stopped
+Check Update	plugins.ep.checkUpdate
+check_for_update	docs.diagram.app-update.n.FETCH
+check_mod_updates	docs.diagram.update-system.n.CHECK
+check_modpack_integrity	docs.diagram.modpack-flow.n.CHECK
+checked	docs.diagram.laya-pipeline.e.checked
+checked {when}	repo.follow.lastCheck
+Checking files	stm.subj.hash
+Checking integrity…	modpack.act.integrityChecking
+Checking...	settings.checking
+Checking…	repo.checkingUpdates
+Checklist	orderList.fmt.task
+Checklist (persisted)	navedit.tplChecklist
+Checks	plugins.pc.checksTitle
+checksum	apps.shaYes
+Checksum mismatch	apps.install.shaWarnTitle
+Checksums	activity.kind.hash
+Chip corners	themes.tok.radius-chip
+Choose	analytics.choose
+Choose Image	settings.launchPackPickIcon
+Choose launcher	apps.pickLauncher
+Choose mods	repo.update.chooseMods
+Choose profiles	ai.lib.wherePick
+Choose…	settings.identity.authKeyPick
+Chrome DevTools	dev.title.js
+Chunked copy	docs.diagram.disk-io-limiter.n.CHUNKS
+chunks updated	repo.convert.kind.chunks_updated
+Circular Buffer	docs.crashReport.q1
+claims “official”	apps.badge.claimsOfficial
+claims “partner”	apps.badge.claimsPartner
+claims “{c}”	repo.claims
+Clarify	ai.draft.p.clarify
+CLASSIC	docs.searchMode.classic
+classic	docs.diagram.semantic-search.e.classic
+Classic (Tasky)	gfx.intro.classic
+Classification (Laya)	ai.settings.classifier
+classifier	docs.diagram.laya-pipeline.e.classifier
+Classifier	laya.dbg.classifier
+Clean exit	docs.diagram.crash-reporting.n.CLEAN_EXIT
+Clear	settings.githubPatClear
+CLEAR	betahub.clearHistory
+Clear All	repo.clearAllHistory
+CLEAR ALL	repo.whitelistClearBtn
+Clear all	plugins.createPermsNone
+Clear comparison	bench.cmpClear
+Clear Console	dev.btn.clearConsole
+Clear edits	rstudio.clearedits
+Clear everything	repo.historyClearAllTitle
+Clear filters	apps.clearFilters
+Clear History	repo.clearHistory
+Clear history	repo.historyClearTitle
+Clear search	settings.searchClear
+CLEAR SELECTION	dev.btn.clearSelection
+Clear Session	bench.clear
+Clear Whitelist.	repo.whitelistClear
+Cleared	bench.cleared
+Cleared.	laya.dbg.cleared
+CLI	docs.diagram.mcp-server.e.cli
+CLI commands	docs.diagram.mcp-server.n.CLI
+click	docs.diagram.one-click-install.e.click
+Click here	tut.showme.click
+Click one…	rstudio.pick.active
+Clicked {c}	snav.done.click
+CLIENTS	repo.monStatClients
+Clients	faq.clients
+Clip saved	rstudio.vsaved
+clipboard	navedit.capClipboard
+Clipboard	navedit.tplClipboard
+Close	common.close
+close	sched.flow.palClose
+Close (Esc)	mdd.closeTip
+CLOSE DEVTOOLS	dev.btn.closeDevtools
+Close DevTools	dev.aria.close
+Close process	plugins.actionCloseProcess
+Cloud	stm.presets.k.cloud
+Cloud Storage	docs.basic.links.q3
+Cloudflare tunnel	repo.share.addrTunnel
+Code	plugins.fldCode
+code	orderList.fmt.wCode
+Code block	orderList.fmt.codeblock
+Code font	themes.tok.font-mono
+Code tab	docs.diagram.bmmscript-flow.n.CODE_TAB
+code.run	docs.diagram.bmmscript-flow.e.codeRun
+code.run step	docs.diagram.bmmscript-flow.n.CODE_RUN
+Collapse	apps.readLess
+Collapse all	mapper.collapseAll
+Collapse All	dev.btn.collapseAll
+Collapsible section	orderList.fmt.details
+Collecting samples…	bench.ui.collecting
+Color	prof.color
+Colour	iconpack.tint
+Comes from	docs.diagram.ui.from
+Command	sched.insp.command
+Command line	consent.source.cli
+Command succeeds	sched.cond.commandSucceeds
+Commands	skd.kind.command
+commands only	docs.diagram.semantic-search.e.commandsOnly
+Comment	plugins.fldComment
+Comment text	plugins.commentText
+Comments	community.comments
+Community	apps.badge.community
+COMMUNITY	plugins.community
+Community catalogs	plugins.communityCatalogs
+Community Plugins	plugins.communityBannerTitle
+Community sources	docs.diagram.app-catalog.n.COMMUNITY
+Community Support	contributor.c0c0_1er.role
+Compact (icons)	settings.toolbarCompact
+Compare mods	plugins.compare
+Compare Plugin	plugins.ep.cmpPlugin
+Compare plugin	sched.act.plugin.compare
+Compare with	bench.ui.compareWith
+Comparing contents	tools.phase.hash
+Comparison	bench.cmpTitle
+Compiler (Rust)	docs.diagram.bmmscript-flow.g.COMPILE
+Compiles?	docs.diagram.bmmscript-flow.n.OK
+Completed	hub.badge.complete
+completions	docs.diagram.bmmscript-flow.e.completions
+Components	credits.stackComponents
+Compress	res.k.compress
+Compression	repo.zipMethod
+compression method	plugins.qt.compression
+Compute checksums	activity.cmd.hashes
+compute_file_hash	docs.diagram.blake3-hashing.n.HASH
+Concerns: {list}	mm.creds.hosts
+Condition	plugins.fldCondExpr
+condition	sched.cond.add
+condition:	sched.condition
+Confidence	ai.suggest.confidence
+Configuration exported.	settings.dataExported
+Configure	docs.storageAlerts.configure
+Configure updates	mod.updateConfig
+Configured generator	docs.diagram.laya-crash-analysis.n.GENERATOR
+Configure…	repo.syncSshConfig
+Confirm	common.confirm
+confirm	docs.diagram.profile-customization.e.confirm
+Confirm Action	dev.modal.confirmTitle
+Confirm Activation	lib.confirm
+Confirm Crop	prof.bgCropConfirm
+Confirm Deletion	settings.launchPackDeleteBtn
+Conflict	themes.ed.pv.conflict
+conflict	conflict.conflict
+Conflict Alert	conflict.warningTitle
+Conflict Details	conflict.modalTitle
+Conflict Detected	mod.activateWarningTitle
+Conflict Detection	onboard.conflicts.title
+Conflict Management	docs.gallery.btn.conflictManagement
+Conflict summary	tools.conflicts.name
+Conflicting Files	conflict.treeTitle
+Conflicting Mods	conflict.conflictingMods
+Conflicts	detail.sectionConflicts
+conflicts	conflict.conflicts
+CONFLICTS	docs.exploreConflicts
+Conflicts computed	docs.diagram.mtime-cache.n.CONFLICTS
+CONFLICTS DETECTED	mod.conflictsTitle
+Conflicts with:	conflict.groupTarget
+Connect	repo.connectBtn
+Connect Repo	plugins.ep.repoConnect
+Connect repo	plugins.actionRepoConnect
+Connected Repos	plugins.ep.repoList
+Connecting…	repo.ssh.testing
+Connection limits	faq.cf.ngrok4
+Consent	dev.session.consent
+Consent dialog	docs.diagram.telemetry-pipeline.n.CONSENT
+consented	docs.diagram.laya-pipeline.e.bcConsent
+Console	dev.tab.console
+contains	sched.txtOp.contains
+Contains	mod.add.contains
+Contains scripts	plugins.pluginHasScripts
+Content	repo.followDlg.rContent
+Content ID	mdd.contentId
+Content-Security-Policy	csp.title
+content_id identity	docs.diagram.blake3-hashing.n.CONTENT_ID
+Contents	plugins.tree.word
+Continue	sched.addContinue
+CONTINUE	sched.continue
+Continue anyway	vfy.b.dismissCrash
+continue anyway	sched.timeoutContinue
+Contrast	themes.ed.contrastTitle
+Contrast enforcer	docs.diagram.theme-system.n.CONTRAST
+Contributors	credits.contributors
+Control	sched.nv.control
+Control Flow	plugins.actionGroupControl
+Control flow	sched.flow.grpControl
+Convert Repo	plugins.ep.repoConvert
+Convert…	repo.format.convertBtn
+Copied	sha.copied
+copied {f}	sched.pa.copied
+Copied!	update.copied
+Copied.	catsrc.copied
+Copied: {v}	sched.gl.copied
+copies	docs.diagram.lightweight-architecture.e.copies
+Copy	common.copy
+copy	anim.copysuffix
+COPY CMD	dev.btn.copyCmd
+Copy code	order.share.copyCode
+copy deleted	docs.diagram.backup-system.e.deleted
+COPY DUMP	dev.crash.copyDump
+Copy failed	md.copy.failed
+copy first	docs.diagram.backup-system.e.firstCopy
+Copy JSON	bench.copyJson
+Copy key	i18n.copyKey
+Copy link	order.share.copyLink
+Copy path	mapper.copyPath
+Copy repo_mod_id	mod.copyRepoModId
+Copy summary	laya.dbg.copySummary
+Copy Template	settings.langCopyTemplate
+Copy text	i18n.copyText
+Copy URL	common.copyUrl
+Copying {pct}%	actjob.stateCopying
+Copying...	common.copying
+Copying…	mod.add.copying
+cores	bench.cores
+Corrupted	modpack.repair.statusCorrupted
+CPU (BMM)	bench.ui.cpu
+CPU line	themes.tok.chart-cpu
+Crash	fbm.kind.crash
+crash	docs.diagram.crash-reporting.e.crash
+crash only	docs.diagram.crash-reporting.e.crashOnly
+Crash Reporting	docs.crashReport.title
+Crash reports	settings.crashTitle
+Crashes/Reports/ zip	docs.diagram.crash-reporting.n.ZIP
+Create	settings.tagCreate
+Create Catalog	plugins.ep.catNew
+Create catalog	plugins.actionCatalogNew
+Create Modpack	modpack.create
+Create modpack	plugins.actionCreateModpack
+Create now	modpack.ui.finishNow
+Create one	tut.basics.modpacks.s2.title
+Create one…	settings.identity.authKeyMake
+Create Pack	settings.launchPackBtnCreate
+Create pack	modpack.ui.createBtn
+Create page	navedit.createPage
+Create Profile	plugins.ep.createProf
+Create profile	plugins.actionCreateProfile
+Create tab	docs.diagram.app-catalog.n.CREATE
+create_profile	docs.diagram.profile-system.n.CREATE
+Created language	i18n.newLangCreated
+Created {date}	modpack.createdAt
+Created “{n}”	sched.prof.made
+Creating…	settings.identity.authKeyMaking
+Creative	ai.draft.creativity.creative
+Creator ID	settings.identity.creatorId
+Creator Key...	repo.whitelistManualKey
+Creator Name:	repo.authorName
+Credits	nav.credits
+Critical	docs.storageAlerts.critical
+critical	docs.diagram.faq-disk-full.e.critical
+Crop overlay	docs.diagram.profile-customization.n.CROPPER
+crop_and_save_webp	docs.diagram.profile-customization.n.CROP
+Cross-profile dependency	mod.crossProfileDep
+CSS	themes.tabCss
+CSS Debugging	dev.tool.cssPink.title
+CSV	history.exportCsv
+Ctrl+K palette	docs.diagram.semantic-search.n.PALETTE
+cURL command	vfy.l.curl
+CURRENT	settings.currentVersion
+current	ai.lib.current
+Current profile	mod.currentProfile
+Current version	repo.version.current
+custom	themes.custom
+Custom	themes.ed.assetSetShort
+Custom CSS	themes.customCssLabel
+Custom frame	rstudio.custom
+Custom pages	docs.diagram.security-system.n.PAGES
+Custom Request	plugins.customRequest
+Custom Tags	settings.export.tags
+Custom tags	settings.tagsTitle
+Customizable grid.	dev.tool.cssGrid.desc
+CUSTOMIZATION	docs.exploreCustom
+Customize	themes.customize
+Customize navigation	navedit.title
+Cut	rstudio.cut
+Cut selection	rstudio.cutsel
+Cuts	rstudio.cuts
+Cyan	themes.tok.cyan
+cycle	mg.cycle
+d	sched.days
+Daily	update.interval24
+Daily at	sched.lblDaily
+Damaged data	laya.cause.data_corrupt
+Danger	themes.tok.danger
+Danger callout	orderList.fmt.danger
+Danger zone	settings.dangerZone
+Dark	themes.modeDark
+Dashboard:	repo.hub.dashHint
+data	plugins.assets.kindData
+Data exported	settings.exportSuccess
+Data import	consent.source.import
+Data Security	docs.mech.backup.title
+Data sent	repo.stat.sent
+data.before-restore-<time>.json	docs.diagram.backup-system.n.BEFORE
+data.json	docs.diagram.mod-architecture.g.RECORD
+data.json.bak	docs.diagram.backup-system.n.DATA_BAK
+Dataset	bench.dataset
+Dataset size	docs.bench.sizeT
+Day	sched.lblMonthly
+days	history.retention.days
+Days	history.retention.daysPh
+Deactivate	modpack.deactivate
+Deactivating mod	bench.step.deactivate
+Deactivating...	modpack.deactivating
+Deactivation	docs.modact.disable.title
+Deactivation cancelled	lib.cancelToastDisable
+Debug	navedit.act.debug
+Debug tester	laya.dbg.fDebug
+Debugger	dev.tab.debugger
+debugger	docs.diagram.bmmscript-flow.e.debugger
+Debugging	sched.dbg.title
+Decision	docs.diagram.kind.decision
+DECLARED	detail.cid.declared
+Declined	consent.choice.declined
+declined	docs.diagram.telemetry-pipeline.e.declined
+Dedicated bandwidth	faq.vps.vps3
+Dedicated Hosting	docs.gallery.btn.dedicatedHosting
+Deep Comparison	docs.basic.integrity.q1
+Deep Indexing	docs.search.semanticTitle
+Deep links	plugins.api.secDeeplinks
+default	themes.assetDefault
+DEFAULT	sched.switchDefault
+Default (setting)	plugins.optOrderDefault
+Default ({name})	settings.identity.authKeyAuto
+Default font	themes.ed.fontDefault
+Default saved.	order.mode.saved
+Default theme	themes.resetDefault
+Default themes	themes.defaultThemes
+Define	docs.diagram.scheduler.g.DEFINE
+Delay (s)	anim.delay
+Delete	settings.launchPackDelete
+delete	docs.diagram.profile-system.e.delete
+Delete button	nbx.deleteButton
+Delete catalog?	plugins.deleteCatalog
+Delete Confirmation	prof.deleteConfirmMsg
+Delete everything	apps.uninstall.deleteFiles
+Delete extra	plugins.fldDeleteExtra
+delete files	sched.perm.delete
+Delete Hash	mods.sha.delete
+Delete Hashes	mods.sha.deleteConfirmTitle
+Delete Launchpack	modpack.deleteTitle
+Delete mod	mod.deleteTitle
+Delete Mod	plugins.ep.deleteMod
+Delete Modpack	modpack.delete
+Delete modpack	plugins.actionDeleteModpack
+Delete Pack	settings.launchPackDeleteTitle
+Delete permanently	lib.delete
+Delete plugin	plugins.ep.deletePlugin
+Delete Profile	prof.deleteTitle
+Delete profile	plugins.actionDeleteProfile
+Delete section	nbx.deleteSection
+Delete selected	iconpack.deleteSel
+Delete task	sched.delTitle
+delete things	sched.permDelete
+Delete things	sched.allowDeleteTitle
+delete_profile	docs.diagram.profile-system.n.DELETE
+Deleted	history.action.Deleted
+Deleted {name}	history.s.deleted
+deletes	docs.diagram.profile-customization.e.deletes
+Deletes <code>key</code>.	docs.pagesApi.cStorageRemove
+Delta re-sync	docs.modUpdates.feat3.title
+Delta Updates	docs.updates.delta
+dep.	modpack.dependenciesShort
+Dependencies	detail.dependencies
+Dependency Mode	modpack.depMode
+Deploy	res.k.deploy
+deploy ticket	docs.diagram.engine-threads.e.deploy
+Deployed files	docs.diagram.mod-architecture.n.INSTALLED
+Deployed order	order.sortCurrent
+Description	detail.description
+Description (optional)	plugins.qtCatDesc
+Description drafts	ai.set2.fDraft
+Destination	mapper.destBase
+Destination folder	plugins.qtDestFolder
+Destination Folder	mod.openSourceFolder
+destination folder	sched.syncGamePh
+Destination folder.	plugins.dl.data_export_auto.p.dir
+Destination profile	mod.importProfileLabel
+Destination updated	common.destUpdated
+Detailed log	sched.runlog.open
+Details	common.details
+Detect	settings.launchPackDetect
+Detect it	res.game.auto
+Detected	repo.directDetected
+Detected hardware	storage.hwTitle
+Detection (core/offline.ts)	docs.diagram.offline-mode.g.DETECT
+Developer Tools	settings.devToolsTitle
+Developers	credits.subcategory.dev
+DevTools actions	dev.aria.toolbar
+DevTools patches	dev.export.patches
+DevTools sections	dev.nav.label
+DevTools session	dev.export.session
+Diagnostic	docs.basic.integrity.q3
+diagnostic export	dev.export.diag
+Diagnostic exported	dev.diagExported
+diagnostic report	dev.export.report
+Diagnostics	settings.exportDiagnostics
+Diagram	docs.search.diagramLabel
+Diagram (Mermaid)	orderList.fmt.mermaid
+Diagram available	common.diagramAvail
+Diagram boxes	themes.tok.diagram-node
+Diagram Nodes	docs.search.diagIndex
+Diagram text	themes.tok.diagram-node-text
+DIAGRAMS GALLERY	docs.gallery.title
+Dialog	sched.nv.modal
+Dialog saved?	docs.diagram.profile-customization.n.SAVE
+Dialog shadow	themes.tok.shadow-modal
+Diff	community.history.diff
+differences	docs.diagram.integrity-engine.e.changed
+Different	sched.pkg.differs
+Different version	tools.diff.version
+Different version?	docs.diagram.update-system.n.VERSION
+Direct	detail.linkDirect
+Direct download	repo.cfgKindDirect
+Direct Link	modpack.repair.directLink
+direct link	docs.diagram.update-system.e.direct
+Disable	mod.deactivate
+disable	docs.diagram.mod-activation.e.disable
+Disable All	prof.disableAll
+Disable all	lib.disableAll
+disable all	docs.diagram.profile-system.e.disableAll
+Disable Mod	plugins.ep.disableMod
+Disable mod	plugins.actionDisableMod
+Disable Modpack	plugins.ep.disableMp
+Disable modpack	sched.act.modpack.disable
+Disable Selection	prof.disableSelected
+Disable {m}	cv.disableM
+disable_mod	docs.diagram.mod-activation.n.DISABLE
+DISABLED	settings.disabledOverlay
+disabled	sk.disabledTag
+Disabled	lib.filterDisabled
+disabled only	docs.diagram.faq-deleted-mod.e.onlyDisabled
+Disabled {name}	history.s.disabled
+Disabling	actjob.disabling
+Disabling mods	actjob.labelDisable
+Disabling...	common.disabling
+disarmed	sched.arm.off
+Discard	themes.discard
+Discard changes?	tutc.discardTitle
+Discard it	ai.emb.discard
+Disconnect Repo	plugins.ep.disconnRepo
+Discord (optional)	fbm.discord
+Discord channel	sched.chat.gDiscord
+Discord linked!	settings.link.discordOk
+Discord RPC	plugins.ep.discordRpc
+Discreet	themes.ed.pv.ghost
+Disk	bench.disk
+Disk full	laya.cause.disk_full
+Disk space	tools.group.space
+Disk usage	tools.disk.name
+Disks, rate-limited	docs.diagram.engine-threads.n.DISK
+Dismiss	apps.state.dismiss
+Display language	settings.langRow
+Divider	orderList.fmt.hr
+DO	sched.do
+do	sched.ref.kindAction
+do mods.scan()	sched.bmms.codePh
+Docked left	tut.win.left
+Docked right	tut.win.right
+Docker Deployment	docs.gallery.btn.dockerDeployment
+Docker files	docs.diagram.lightweight-architecture.n.DOCKER
+Docker Support	repo.miniServerDocker
+Docker ticked	docs.diagram.docker-deployment.e.docker
+docker-compose.yml	docs.diagram.docker-deployment.n.COMPOSE
+Dockerfile	docs.diagram.docker-deployment.n.DOCKERFILE
+Docs	plugins.tabDocs
+docs hub	docs.diagram.semantic-search.e.docsHub
+document	plugins.assets.kindDoc
+Documentation	docs.tab.advanced
+Documentation moved	plugins.docsMovedTitle
+Documents	update.tabDocs
+DOM tree	dev.title.dom
+Done	cardorder.editDone
+Double spaces	tools.names.i.spaces
+Double-click	docs.profileCustom.q3
+double-click	docs.diagram.launch-packs.e.doubleClick
+Down	nbx.moveDown
+Download	update.stepDownload
+Download .json	settings.langDownload
+Download Assets	hub.assets.downloadBtn
+Download catalog.json	apps.create.download
+Download complete	repo.notifDownloadFinished
+Download File	common.downloadFile
+Download it	repo.follow.actDownload
+Download lang-template.json	plugins.qtLangTemplateBtn
+Download limit	sched.syncLimit
+Download links	detail.links
+Download password	repo.miniServerDownloadPassword
+Download passwords	mm.creds.pw
+Download sources	modpack.ui.sources
+Download started	repo.notifDownloadStarted
+Download Update	settings.downloadUpdate
+Download URL	plugins.fldDlUrl
+download URL	sched.appUrlPh
+Download URL.	plugins.dl.app_install.p.url
+download.file_type	plugins.qtCatAppFtype
+download.url	plugins.qtCatAppUrl
+download_mod	docs.diagram.one-click-install.n.STREAM
+Downloaded	apps.install.shaActual
+Downloaded content	docs.diagram.security-system.g.SIGNED
+DOWNLOADING	repo.downloading
+Downloading	ai.emb.stDownloading
+Downloading "{name}"...	mod.downloading
+Downloading...	update.downloading
+DOWNLOADS	docs.exploreResumable
+downloads	sched.rf.act.download
+Downloads	repo.stat.downloads
+Draft	community.draft
+Draft applied.	ai.draft.applied
+Drafting	ai.hub.tabDrafting
+drive away	docs.diagram.mtime-cache.e.unplugged
+drive offline	docs.diagram.mod-sync.e.driveOffline
+Drop-in presets	themes.dropinTitle
+Dry run	plugins.pc.dryRun
+due	docs.diagram.scheduler.e.due
+due {v}	sched.why.dueAt
+Duplicate	plugins.duplicate
+duplicate	sched.ai.lib.wDuplicate
+Duplicate finder	tools.duplicates.name
+Duplicate profiles	tools.dupprofiles.name
+Duplicate step	sched.dupStep
+Duplicate task	sched.dupTask
+Duplicated	sched.duplicated
+Duration (ms)	plugins.waitDuration
+Duration (s)	anim.duration
+DxDiag	fbm.sumDx
+e.g. "1.0.0"	docs.pagesApi.scVersion
+e.g. "Win32"	docs.pagesApi.scPlatform
+e.g. backups/weekly	sched.bmmFolderPh
+e.g. D:\Repos\MyRepo	sched.srv.dirPh
+e.g. texture-optimizer	sched.ci.idPh
+e.g. work	sched.key.namePh
+each chunk	docs.diagram.disk-io-limiter.e.perChunk
+each entry	docs.diagram.mod-sync.e.eachEntry
+each link	docs.diagram.update-system.e.perLink
+each mod	docs.diagram.mod-sync.e.eachMod
+each modpack	sched.fe.modpacks
+each op	bench.eachOp
+each orphan	docs.diagram.mod-activation.e.orphans
+each pair	docs.diagram.conflict-management.e.eachPair
+each profile	sched.fe.profiles
+each theme	sched.fe.themes
+Earlier	community.archive
+Ease	anim.ease
+Easy sharing	mm.shareTitle
+Edit	common.edit
+edit	docs.diagram.profile-system.e.edit
+Edit App	apps.create.editApp
+Edit catalog	plugins.editCatalog
+Edit details	mdd.editDetails
+Edit history	community.history.title
+Edit layout	cardorder.edit
+Edit Modpack	modpack.edit
+Edit notes	orderList.notesEdit
+Edit plugin	plugins.editPlugin
+Edit profile	prof.editTitle
+Edit shortcut	skd.titleEdit
+Edit task	sched.editTitle
+Edit tutorial	tutc.titleEdit
+edited	i18n.edited
+Edited	i18n.filterEdited
+Edited {name}	history.s.editedPlain
+Editing	themes.editScope
+Editing {id}	plugins.pc.editingChip
+Effects	themes.ed.grp.effects
+Element	tutc.wait.selector
+Element added	themes.ceAdded
+Element picker	docs.diagram.theme-system.n.PICK
+Element styles	themes.ed.elStyles
+Elements	themes.ed.secElements
+Else	plugins.actionElse
+ELSE	sched.else
+else =	sched.tnFalse
+Else =	plugins.fldElseVal
+embedded	docs.diagram.laya-pipeline.e.embedded
+Embedded engine	docs.diagram.laya-pipeline.n.EMBEDDED
+empties	docs.diagram.cache-management.e.empties
+Empty	ai.sug3.empty
+Empty cell	stm.legend.emptyTerm
+Empty folder.	repo.ssh.browserEmpty
+Empty recording	watcher.empty
+Emptying caches	activity.cmd.toolsCacheClean
+Emptying…	tools.cache.cleaning
+Enable	mod.activate
+enable	docs.diagram.mod-activation.e.enable
+Enable all	lib.enableAll
+Enable anyway	mod.activateAnyway
+Enable Anyway	mods.sha.enableAnyway
+enable anyway	docs.diagram.conflict-management.e.anyway
+Enable Mod	plugins.ep.enableMod
+Enable mod	plugins.actionEnableMod
+Enable Modpack	plugins.ep.enableMp
+Enable modpack	sched.act.modpack.enable
+Enable pre-releases	settings.preReleaseToggle
+enable_mod	docs.diagram.integrity-engine.n.ENABLE
+enabled	sha.enabled
+Enabled	themes.ed.pv.enabled
+Enabled {name}	history.s.enabled
+Enabling	actjob.enabling
+Enabling mods	actjob.labelEnable
+Enabling...	common.enabling
+Encrypted (https).	repo.addr.https
+end	docs.diagram.scheduler.e.end
+End block	plugins.actionEnd
+End colour	themes.gradColor2
+End here	rstudio.setend
+End loop	plugins.actionLoopEnd
+Endpoint allowed?	docs.diagram.telemetry-pipeline.n.ENDPOINT
+Endpoints	plugins.api.secEndpoints
+Engines	docs.diagram.laya-pipeline.g.ENGINES
+English	ai.draft.langEn
+enough	docs.diagram.faq-disk-full.e.enough
+ENSURE	sched.ensure
+Enter name:	mapper.enterName
+Entries	apps.create.step.entries
+Entries kept	sched.feed.max
+Entry id	sched.catEnt.id
+entry only	docs.diagram.profile-system.e.entryOnly
+Enums	sched.en.title
+env_file	docs.diagram.docker-deployment.e.envFile
+Equals	plugins.fldEquals
+erase request	docs.diagram.telemetry-pipeline.e.erase
+Erased by	analytics.deleteBy
+Error	common.error
+error key	docs.diagram.i18n-system.e.errorKey
+Error: {err}	settings.launchPackError
+ERRORS	dev.label.error
+Errors	notif.f_error
+errors	docs.diagram.telemetry-pipeline.e.errors
+Errors only	dev.level.error
+Errors, live	analytics.category.errors
+escapes	docs.diagram.security-system.e.escape
+Essentials	hub.cat.essentials
+EULA	navedit.act.eula
+event	docs.diagram.common.event
+Event Components	dev.tool.cssEvents.title
+events	analytics.packetEvents
+Events seen	dev.session.events
+Events stored	dev.session.queued
+Every	sched.lblEvery
+every	sched.loopEvery
+Every change	repo.convert.changes
+Every day	repo.mini.daily
+every day	repo.follow.every1d
+Every drive	docs.diagram.security-system.n.FULL
+Every hour	repo.mini.hourly
+every hour	repo.follow.every1h
+every language	docs.diagram.i18n-system.e.everyLanguage
+every mod	sched.prev.w.all
+every save	docs.diagram.backup-system.e.everySave
+every week	repo.follow.every1w
+Everything	tools.logs.lvAll
+Everything else	plugins.more
+Everywhere	skd.scopeAll
+exact message	sched.pc.details
+Exactly this	dlg.target
+Example .bat	plugins.exampleBat
+Example PowerShell	plugins.examplePs1
+excerpt only	docs.diagram.laya-crash-analysis.e.excerptOnly
+Exe path	plugins.fldExePath
+Executable saved	apps.exeSet
+Executables	settings.launchPackExes
+Expand	orderList.notesExpand
+Expand all	mapper.expandAll
+Expected	apps.install.shaExpected
+expected hash	sched.expectedHash
+Expected hash	tools.hash.expected
+Expert Guidance	hub.guidanceTitle
+Explain	crashmgr.laya.explain
+Explain button	docs.diagram.laya-crash-analysis.n.EXPLAIN
+Explanation	ai.ask.iDocs
+Explore Archive	mod.exploreArchive
+EXPLORE CYCLE	docs.exploreCycle
+EXPLORE ONE-CLICK	docs.exploreOneClick
+EXPLORE SAFETY	docs.exploreSafety
+Export	settings.dataExport
+Export (.bmp)	modpack.exportBtn
+Export (JSON)	consent.export
+Export .BMMPA	sched.exportBmmpa
+Export .bmmplug	plugins.exportBmmplug
+Export .bmmreplay	rstudio.export
+Export .bmmtheme	themes.export
+Export .json	i18n.export
+Export .MM	mm.export
+Export cancelled.	mm.exportCancelled
+Export CSV	benchmark.export
+Export Data	settings.export.title
+Export data.json	plugins.actionDataDump
+EXPORT DIAG	dev.btn.exportDiag
+Export diagnostics	activity.cmd.diagnostics
+Export everything	tut.other.backup.s2.title
+Export failed	watcher.exportFail
+Export JSON	history.exportJson
+Export Modpack	modpack.exportTitle
+Export modpack	plugins.actionModpackExport
+EXPORT PATCH	dev.btn.exportPatch
+Export Plugin	plugins.ep.exportPlugin
+Export plugin	plugins.actionPluginExport
+Export replay	plugins.actionReplayExport
+Export Replay	plugins.ep.replayExport
+Export report	sha.export
+Export Session	bench.export
+Export session	watcher.export
+Export zip	iconpack.exportZip
+Export {name}	sched.ex.title
+Export {n}	repo.cat.pick.export
+export_data_bundle	docs.diagram.backup-system.n.BUNDLE
+export_launch_pack	docs.diagram.launch-packs.n.EXPORT
+export_modpack	docs.diagram.modpack-flow.n.EXPORT
+Exported	common.exported
+Exported.	sched.ex.saved
+Export…	tutc.exportDoc
+Express server	docs.diagram.lightweight-architecture.n.EXPRESS
+Expression	plugins.fldExpr
+external	stm.presets.k.external
+External API	ai.src.api
+External drives	stm.presets.external
+extra (strict)	plugins.cmpStatExtra
+Extra attempts	sched.retry.times
+Extract	res.k.extract
+Extracted archives	docs.diagram.faq-disk-full.n.EXTRACTED
+Extraction cache	docs.diagram.mod-architecture.n.XCACHE
+Failed	history.failed
+failed	common.failed
+failed: {e}	orderList.applyOneFailed
+fails	docs.diagram.common.fail
+Faint text	themes.tok.text-muted
+Fair	fbm.q.fair
+Fallback type	modpack.modFallbackType
+family	sched.ai.crashFamily
+FAQ	docs.bench.faqT
+Fastest	laya.dbg.statMin
+Favorite	repo.favorite
+Favorites	apps.tab.favorites
+Favourites	snav.tab.apps.favorites
+Favourites only	repo.browseFavOnly
+Feature	laya.dbg.area
+Feature usage	analytics.cat.usage
+Features	ai.settings.features
+Feed title	sched.feed.feedTitle
+Feedback	ai.draft.field.feedback
+Feedback dialog	docs.diagram.crash-reporting.n.FEEDBACK
+Fetch	repo.fetchBtn
+fetch_app_catalogs	docs.diagram.app-catalog.n.FETCH
+Fetched	catsrc.act.enabled
+Fetching	repo.cat.stateOn
+Fetching…	settings.catIndex.loading
+Fewer options	settings.fewerOptions
+Field	history.field
+Field corners	themes.tok.radius-input
+FILE	repo.monColFile
+File	repo.monFile
+file	apps.create.pvFile
+File access	security.modal.title
+File Conflicts	docs.modact.conflict.title
+File copied	docs.diagram.disk-io-limiter.n.DONE
+File hashes	docs.diagram.mod-architecture.n.HASHES
+File imported	navedit.fileImported
+File index	docs.diagram.conflict-management.n.INDEX
+FILE LAYOUT	repo.manifestLayout
+file lists	docs.diagram.mod-architecture.e.fileLists
+File Merging	docs.mech.merge.title
+file name	docs.diagram.profile-customization.e.fileName
+File name	sched.du.file
+File path	plugins.qtImportPath
+File size	sched.cond.fileSize
+File structure	docs.bmmplugTitle
+File type	plugins.fldFileType
+File/folder exists	sched.cond.fileExists
+file_hashes baseline	docs.diagram.integrity-engine.n.BASELINE
+Filename template	plugins.fldFilenameTemplate
+Files	detail.sectionFiles
+files	mm.hashFiles
+Files ({n})	sched.pkg.revFiles
+files only	docs.diagram.laya-pipeline.e.filesOnly
+Files only	ai.suggest.filesOnly
+Files written	docs.diagram.launch-packs.g.FILES
+Files…	sched.more
+Fill addresses	modpack.cat.build.fill
+Fill fields	mod.metadataFillBtn
+Filter	notif.filter
+Filter diagrams	docs.diagram.ui.gallerySearch
+Filter files...	mapper.searchMod
+Filter lines	dev.placeholder.filterLines
+Filter tasks…	sched.filter
+Filter...	dev.placeholder.filter
+Filter:	history.filter
+Final check...	modpack.repair.finalCheck
+Final preview	mapper.preview
+Finalizing manifest...	repo.stepFinalizing
+Find models	ai.set2.findModels
+findings (all)	sched.ai.lk.findings
+Fine settings	ai.lt.fine
+Fingerprint	orderList.q.content
+Fingerprint:	sched.lv.fp
+Finish	hub.finish
+finished	sched.runlog.ok
+Finished: {job}	notif.jobDone
+fire deeplinks	sched.permDeeplink
+Fire deeplinks	sched.allowDeeplinkTitle
+Fires when	sched.trScr.fires
+first	docs.diagram.integrity-engine.e.first
+first check	docs.diagram.offline-mode.e.first
+First launch	consent.source.first_run
+First run	laya.dbg.statFirst
+first time	docs.diagram.backup-system.e.firstTime
+First-Launch Choice	docs.security.q3
+fitting crash	docs.diagram.laya-crash-analysis.e.matchCrash
+Fix	themes.ed.fix
+fix	docs.diagram.faq-deleted-mod.e.fix
+Fix all	themes.ed.fixAll
+Fix it	sched.dg.fixYes
+FIXED	update.badge.fixed
+fixed cut	docs.diagram.laya-pipeline.e.fixedCut
+Flappy Tasky	flappy.title
+flash	storage.hwFlash
+Floating window	tut.win.float
+Flow	sched.modeFlow
+flow	sched.dr.e.flow
+Flow shortcuts	sched.flow.keysTitle
+Flow tools	sched.flow.toolbar
+Focus	themes.stateFocus
+Focus border	themes.tok.border-accent
+Folder	repo.miniServerScriptFolder
+folder	docs.diagram.mod-import.e.folder
+folder (assets)	navedit.pagefileDest
+Folder error: 	prof.folderError
+Folder found.	prof.chk.ok
+folder gone	docs.diagram.mod-sync.e.folderGone
+Folder mod	docs.diagram.mod-architecture.n.FOLDER
+Folder name	ai.src.folder
+Folder scans	stm.game.k.scan
+Folders	mapper.pv.folders
+Folders on	sshbr.title
+Folder…	bench.customFolder
+Follow	sched.pc.follow
+Follow it	plugins.fldFollow
+Followed repo	sched.nv.kind.repo
+Followed Repos	plugins.ep.repoFollowList
+Followed repos	notif.group.repos
+Following	settings.catIndex.followed
+Following {name}.	repo.follow.added
+For	ai.lt.for
+For each	sched.addForEach
+FOR EACH	sched.forEach
+for each	sched.ref.kindSource
+for good	sched.res.scopeKeep
+For programs	ai.hub.tabApi
+For: {field}	ai.draft.for
+Force off	res.game.off
+Force on	res.game.on
+Forever	history.retention.never
+Forget	vfy.b.forget
+format	repo.convert.kind.format
+Format	repo.followDlg.rFormat
+format {v}	repo.format.label
+Formatting	orderList.fmt.bar
+Formula (KaTeX)	orderList.fmt.math
+Forward button	sk.dev.forward
+Four tabs	tut.laya.meet.s4.title
+FPS: 	dev.metric.fps
+Frame	rstudio.tl.frame
+Free	faq.vps.home1
+free	sched.free
+Freemium	apps.price.freemium
+French	ai.draft.langFr
+Fri	sched.dow5
+from	rstudio.cutfrom
+From	settings.notifQuietFrom
+From bmm.json	detail.cid.declared.hint
+From File	modpack.importFromFile
+from outside	docs.diagram.deeplinks.e.external
+FROM PROFILES	repo.manifestModeProfile
+From repository	repo.updateFromRepo
+From ServerRepo	modpack.importFromSR
+from {f}	plugins.pcbFromFile
+from {source}	apps.card.from
+From {src}:	modpack.ui.quickPick
+Front-end logic	docs.diagram.kind.front
+Full	sched.rcFull
+full	docs.diagram.security-system.e.full
+Full (labels)	settings.toolbarFull
+Full (unmasked)	plugins.fldFullReplay
+Full Backup	settings.export.all
+Full export	docs.diagram.hosting-flow.n.EXPORT
+full export	docs.diagram.hosting-flow.e.full
+FULL GUIDE	docs.viewGuide
+Full installer	docs.diagram.app-update.n.FULL
+full installer	docs.diagram.app-update.e.full
+Full isolation	docs.docker.adv2
+Full mode	watcher.fullMode
+Full Tutorial	docs.howTo
+Fullscreen	rstudio.fullscreen
+Fully isolated	nbx.presetNoneTip
+Game	repo.verifyDetail.game
+GAME	hub.assets.type.game
+game	stm.presets.role.game
+Game executable	plugins.fldGameExe
+Game folder	prof.gameDirLabel
+Game launch	laya.area.launch
+Game name	prof.game
+game original	docs.diagram.mod-activation.e.gameFile
+Game Root	mapper.gameRoot
+Game root	mapper.pv.rootGroup
+Game side	docs.diagram.mod-architecture.g.GAME
+GB	stm.unit.gb
+Gen Repo	plugins.ep.repoGen
+General	detail.sectionGeneral
+General Info	modpack.generalInfo
+Generate	plugins.qtTokenGen
+Generate again	ai.draft.again
+Generate dark	themes.genDark
+Generate light	themes.genLight
+Generate Repo	repo.exportBtn
+Generate repo	plugins.actionGenRepo
+GENERATE repo.json	repo.manifestGenerate
+Generate Repository	repo.stepOneTitle
+Generate Server	repo.miniServerGenerate
+Generate server	plugins.fldGenerateServer
+Generate Start-Server.bat	repo.generateMiniServer
+generate_standalone_server	docs.diagram.lightweight-architecture.n.GEN
+Generated vocabulary	docs.diagram.bmmscript-flow.n.REF
+Generating...	repo.exporting
+Generation cancelled	repo.cancelled
+generator set	docs.diagram.laya-crash-analysis.e.generatorSet
+Generic game	repo.genericGame
+Get catalog	plugins.actionGetCatalog
+Get it	plugins.cmpGet
+Get status	plugins.actionGetStatus
+get_mod_integrity	docs.diagram.integrity-engine.n.VERIFY
+Getting started	docs.pagesApi.startH
+ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	settings.githubPatPlaceholder
+GitHub	docs.basic.links.q1
+GitHub release	update.kind.github
+GitHub Repository	credits.githubRepo
+given	docs.diagram.profile-system.e.given
+Glass edge	themes.tok.glass-border
+Glass fill	themes.tok.glass-bg
+Glass surface	themes.tok.bg-overlay
+Global	modpack.global
+Global (All)	common.global
+Global Architecture	docs.gallery.btn.appArchitecture
+Go there	tstudio.goThere
+Go to	ai.ask.goto
+Go to:	hub.goTo
+Goes to	repo.ssh.routeTo
+Good	fbm.q.good
+Got it	stm.intro.dismiss
+Governor	docs.diagram.disk-io-limiter.g.GOV
+Governor ticket	docs.diagram.engine-threads.n.TICKET
+Gradient	themes.gradient
+gradient	settings.tagGradient
+Grant none	navedit.reviewGrantNone
+Grant nothing	plugins.perm.grantNone
+Grant permissions	plugins.qtPermGrant
+Grant selected	navedit.reviewGrantSelected
+granted	docs.diagram.custom-pages.e.granted
+Great	fbm.q.great
+Grey text	stm.legend.greyTerm
+Greyed-out cell	stm.legend.offTerm
+Grid	modpack.ui.viewGrid
+group	sched.tx.group
+Group {n}	crashmgr.laya.groupN
+Groups	credits.stackGroups
+GSAP unavailable	anim.nogsap
+guess	ai.lt.guessBadge
+Guide	settings.langGuide
+gzip packet	docs.diagram.telemetry-pipeline.e.packet
+h	sched.unitH
+Hard disk	stm.presets.k.hdd
+Hard limits	docs.diagram.deeplinks.n.LIMITS
+Hardcoded	i18n.hardcoded
+Hardcoded text	i18n.tabHardcoded
+Hardcoded Text	dev.tool.a11yHardcoded.title
+Hardware detection	api.ep.resHardware
+has hashes	docs.diagram.mtime-cache.e.hashed
+Hash	sha.hash
+Hash checker	tools.hash.name
+hash corrected	repo.convert.kind.hash_changed
+Hash differs	laya.dbg.whyHash
+hash filled	repo.convert.kind.hash_filled
+hash now	docs.diagram.integrity-engine.e.hashFirst
+Hash pool	docs.diagram.blake3-hashing.n.POOL
+Hash queue	docs.diagram.mod-sync.n.QUEUE
+hash_file command	docs.diagram.blake3-hashing.n.HASHFILE
+hashed {d}	sha.hashedOn
+hashes	docs.diagram.mod-sync.e.hashes
+hashes corrected	repo.convert.cChanged
+Hashes deleted	mods.sha.deleted
+hashes filled	repo.convert.cFilled
+Hashing	laya.dbg.hashTime
+Hashing (background)	docs.diagram.mod-sync.g.HASH
+Hashing engine	docs.diagram.blake3-hashing.g.ENGINE
+Hashing Progress	settings.shaStatsBtn
+Hashing stats	navedit.act.hashStats
+Hashing {name}	sha.act.bgNow
+Hashing…	sha.hashingNow
+Headers	sched.http.headers
+Heading	orderList.fmt.h2
+Health	plugins.ep.health
+Health check	plugins.endpointHealth
+Heap: 	dev.metric.heap
+heavy work	docs.diagram.code-stack.e.heavyWork
+Help bubbles	settings.taskyTooltip
+Hidden	settings.layout.hidden
+Hide	sched.wh.hide
+Hide archives	update.hideOld
+Hide changes	cv.hideChanges
+Hide element	rstudio.pick
+Hide tips	mapper.hideTips
+High	plugins.pc.riskHigh
+High performance	stm.gfx.mode.high_performance
+Higher risk	nbx.riskHigh
+Highlight	tutc.style
+History	lib.history
+History cleared	history.cleared
+Hook name	plugins.fldHookName
+Hook rung:	sched.dl.hookRang
+Hooks	plugins.permDomHooks
+Horizontal Spacing	dev.label.gridH
+HOST	repo.hostColumnLabel
+Host	repo.tabHost
+host	repo.sshsrc.newHostPh
+Host HTTP	plugins.ep.repoHost
+host:port	sched.rx.hostPort
+hosted elsewhere	mm.cat.remote
+Hosting Flow	docs.gallery.btn.hostingFlow
+Hosting steps	repo.flow.aria
+Hours	md.sched.hours
+Hover	themes.stateHover
+How long	sched.wait.timing
+How?	docs.ioLimiter.how
+HTML	dev.subtab.html
+HTTP	docs.diagram.lightweight-architecture.e.http
+http	apps.http
+HTTP API	docs.apiTitle
+HTTP {status}	ai.gen.code.http
+http(s)	detail.linkHttp
+http://repo.example.com/repo.json	modpack.srLinkPlaceholder
+https	docs.diagram.telemetry-pipeline.e.httpsOk
+https://api.example.com/v1	ai.settings.externalUrlPh
+https://example.com/repo.json	repo.urlPlaceholder
+https://www.youtube.com/embed/dQw4w9WgXcQ	docs.videos.tuto1.online
+https://you.github.io/my-repo	repo.static.urlPlaceholder
+https://your-address/	repo.static.md.yourAddress
+https://…	catpub.urlPh
+https://…/catalog.json	mm.cat.addPh
+https://…/mod-latest.zip	repo.cfgDirectUrlPh
+https://…/nightly.bmmpa	sched.tcb.urlPh
+Hub mode	repo.hub.mode
+icon	themes.iconSwap
+Icon	prof.icon
+icon chosen	docs.diagram.launch-packs.e.iconPicked
+Icon themes	nbx.icCats
+icon.ico	docs.diagram.launch-packs.n.ICON
+Id	tutc.id
+ID	copyid.local
+Id copied:	copyid.copiedLocal
+Identical files	tools.duplicates.filesTitle
+Identifying	stm.subj.contentId
+Identity	docs.diagram.mod-architecture.n.IDENTITY
+Identity key	settings.identity.authKey
+Identity keys	settings.identity.authKeys
+Idle	common.idle
+IDLE	repo.idle
+Ids	copyid.label
+IF	sched.if
+if	sched.ref.kindCond
+if autostart	docs.diagram.lightweight-architecture.e.ifAutostart
+if consented	docs.diagram.crash-reporting.e.ifConsented
+if Docker	docs.diagram.lightweight-architecture.e.ifDocker
+if on	docs.diagram.discord-rpc.e.ifOn
+If/Else	sched.addIf
+Ignore	laya.fb.ignore
+Image	res.k.image
+image	plugins.assets.kindImage
+Image defined	prof.bgDefined
+Image files	docs.diagram.profile-customization.n.FILES
+Image processing	stm.game.k.image
+Image ticket	docs.diagram.profile-customization.n.TICKET
+Import	settings.dataImport
+IMPORT	docs.exploreImport
+import	docs.diagram.theme-system.e.import
+Import (.bmp)	modpack.import
+Import .BMMPA	sched.importBmmpa
+Import .bmmplug	plugins.importFile
+Import .bmmtheme	themes.import
+Import .json	plugins.importJsonFile
+Import .MM	mm.import
+Import cancelled	mm.cancelled
+Import Data	plugins.ep.importData
+Import error	plugins.importError
+Import failed	bench.importFailed
+Import files…	iconpack.importMany
+Import folder…	plugins.importFolders
+Import Language	plugins.ep.importLang
+Import language	plugins.actionLangImport
+Import Modpack	modpack.importTitle
+Import modpack	plugins.actionModpackImport
+Import OMM/OMX	plugins.ep.importOmm
+Import OvGME	plugins.ep.importOvgme
+Import Plugin	plugins.ep.importPlugin
+Import plugin	plugins.actionPluginImport
+Import replay	plugins.actionReplayImport
+Import Replay	plugins.ep.replayImport
+Import scripts…	plugins.importScripts
+Import Session	bench.import
+Import sources?	catsrc.import.title
+import_launch_pack	docs.diagram.launch-packs.n.IMPORT
+import_profile_icon	docs.diagram.profile-customization.n.IMPORT_ICON
+IMPORTANT	update.alert.important
+imported	sched.ommImported
+Imported	anim.import.done
+Imported "{n}"	settings.lpImported
+Imported (OvGME)	prof.importSourceOvgme
+IMPORTED LIST	mm.importedBadge
+Imported List	mm.importedTitle
+Imported list	orderList.importedName
+Imported replays	watcher.listTitle
+Importing plugin...	plugins.importing
+Importing theme…	themes.deeplink.import
+Importing...	common.importing
+Importing…	legacy.importing
+Import…	tutc.importDoc
+IMPROVED	update.badge.improved
+in	sched.in
+in code	tstudio.placeNoCtx
+In French?	docs.diagram.i18n-system.n.FRFALL
+In memory	docs.diagram.cache-management.g.MEM
+In progress	hub.badge.partial
+In-app features	docs.diagram.laya-pipeline.n.FEATURES
+INACTIVE	mod.inactive
+Inactive	mdd.stateOff
+inactive	plugins.cmpStatInactive
+Include dependencies	modpack.modDeps
+Include pre-releases	sched.includePrerelease
+Incomplete	sshsrv.stIncomplete
+Index	settings.indexShowShort
+Index name	settings.catIndex.makeNamePh
+Info	notif.f_info
+Information	themes.tok.info
+inherit	res.inherit
+init_discord_rpc	docs.diagram.discord-rpc.n.INIT
+Initializing...	repo.initServer
+Inline-colour patcher	docs.diagram.theme-system.n.PATCH
+inside	sched.stepsInside
+Inspect	dev.tab.inspect
+Inspect manifest	plugins.inspect
+INSPECTOR	dev.label.inspector
+Install	themes.install
+install	docs.diagram.app-catalog.e.install
+Install all	mm.installAll
+Install anyway	update.installAnyway
+Install App	plugins.ep.installApp
+Install app	plugins.actionInstallApp
+Install cancelled.	mm.installCancelled
+Install error	plugins.installError
+Install failed	apps.state.installFailed
+Install folder	apps.installPath
+Install it	docs.diagram.app-update.g.INSTALL
+Install link	docs.diagram.one-click-install.n.URL
+Install now	update.installNow
+Install Selection	mm.installSelection
+Install state	apps.filter.stateAria
+Install ticket	docs.diagram.mod-import.n.TICKET
+install_app	docs.diagram.app-catalog.n.INSTALL_APP
+Installation	laya.cat.install
+Installation Preview	mm.installPreview
+Installation results	mm.installResults
+Installed	themes.installed
+installed	sched.cu.installed
+Installed Apps	plugins.ep.installedApps
+Installed files	detail.files
+Installed program	oldInstalls.kindInstall
+Installed themes	docs.diagram.theme-system.n.INSTALLED
+Installed {id}	sched.ci.done
+installed!	apps.installed
+Installed, loaded	ai.emb.stLoaded
+Installed, off	orderList.st.inactive
+Installer	consent.source.installer
+Installer fallback	docs.diagram.security-system.n.INSTALLER
+Installing	plugins.installing
+Installing...	common.installing
+Instructions	ai.draft.sentSystem
+Integrated Server	repo.builtInHostTitle
+Integrity	apps.integrity
+Integrity (SHA)	sha.title
+Integrity baseline	docs.diagram.blake3-hashing.n.BASELINE
+Integrity center	docs.diagram.integrity-engine.n.CENTER
+Integrity checked	tutc.act.INTEGRITY_CHECK
+Integrity checks	tut.basics.integrity.title
+INTEGRITY ENGINE	docs.exploreIntegrity
+Integrity engine	docs.diagram.integrity-engine.title
+Integrity OK	integrity.ok
+Integrity Report	integrity.title
+Intelligent Mapping	docs.mapper.q2
+Inter	conflict.inter
+Inter-Profile	conflict.interProfile
+Inter-Server Sync	docs.serverRepo.interServerTitle
+Interactive Cards	docs.search.glassCards
+Interactive diagrams	docs.diagram.ui.galleryTitle
+Interface	credits.group.ui
+Interface error	laya.cause.ui_script
+Interface font	themes.tok.font-sans
+Interface preferences	restore.s.extras.json
+Intermediate	hub.level.2
+Internal error	laya.cause.internal_error
+internet	navedit.capNetwork
+Into	sched.pkg.root
+Into variable	plugins.fldIntoVar
+Intra	conflict.intra
+Intra-Profile	conflict.intraProfile
+invalid	docs.diagram.common.invalid
+invalid selector	anim.badselector.short
+Invalid signature	repo.sig.invalid
+invalidate_cache	docs.diagram.cache-management.n.INVALIDATE
+invoke	docs.diagram.common.invoke
+invoke() bridge	docs.diagram.code-stack.n.BRIDGE
+IP ADDRESS	repo.monColIP
+IP Address	repo.monIP
+IP Address...	repo.whitelistManualIP
+IPC	dev.label.ipc
+IPC connection	docs.diagram.discord-rpc.n.CONNECT
+Irreversible Action	settings.launchPackDeleteIrreversible
+is	sched.txtOp.is
+is empty	sched.txtOp.empty
+is not	sched.txtOp.isNot
+is true:	sched.ensure.condLabel
+Isometric	iconpack.iso
+Issues detected!	integrity.issues
+It answers.	catsrc.test.ok
+It failed	sched.test.fail
+It worked	sched.test.ok
+Italic (Ctrl+I)	orderList.fmt.italic
+Items	catsrc.details.items
+Its card	tut.laya.meet.s2.title
+Its folders	sched.prof.folders
+Its id	plugins.fldExtraId
+its id	sched.nv.idPh
+Its look	prof.stepLook
+Job queue	docs.diagram.mod-activation.n.QUEUE
+Join Discord	crash.discord
+Joined: {name}	repo.head.joined
+JS	dev.subtab.js
+JS log	plugins.fldJsLog
+JSON body	plugins.fldJsonBody
+JSON document	order.import.kind.json
+JSON preview	plugins.qtJsonPreview
+JSON-RPC, stdio	docs.diagram.mcp-server.e.stdio
+just now	update.justNow
+KB	stm.unit.kb
+Keep disabled	skd.imp.keep
+Keep editing	themes.ed.keepEditing
+Keep enabled	cv.keepOn
+Keep first	rstudio.trimend
+Keep for	history.keepFor
+Keep last	crashmgr.keepLast
+kept	cv.pinned
+Kept {name}	oldInstalls.lineKept
+key added	repo.convert.kind.key_added
+Key copied	i18n.keyCopied
+Key passphrase	plugins.fldCatPassphrase
+Key removed.	settings.bcKey.removed
+Key saved.	settings.bcKey.ok
+Keyboard shortcuts	settings.shortcuts
+Keys	skd.step.keys
+keys	i18n.keys
+keys added	repo.convert.cKeys
+Keyword Match	docs.search.classicTitle
+keyword search	ai.ask.byRules
+kill	docs.diagram.engine-threads.e.kill
+Kind	catsrc.details.kind
+Ko-fi Contributors	credits.sections.kofi
+Label	mdd.linkLabel
+label	sched.ai.condLabelPh
+Labels	sched.ai.labels
+Labels from	ai.lt.testWith
+Lang Template	plugins.ep.langTemplate
+Lang/*.json	docs.diagram.i18n-system.n.LANGFILES
+Language	settings.language
+Language imported	settings.langImported
+Language picker	docs.diagram.i18n-system.n.SWITCH
+Language template	plugins.actionLangTemplate
+Large files	tools.largefiles.name
+Largest	modpack.ui.sortSize
+last	sched.last
+Last attempt	catsrc.details.lastTry
+Last calls	laya.dbg.callsTitle
+Last error	catsrc.details.error
+Last event	dev.session.last
+last KB	sched.tx.tail
+Latency	laya.dbg.latency
+Later	settings.later
+later	docs.diagram.common.later
+LATEST	settings.latestVersion
+Latest	community.latest
+Launch	settings.launchPackRun
+Launch App	plugins.ep.launchApp
+Launch app	plugins.actionLaunchApp
+Launch game	themes.ed.pv.launch
+Launch pack	plugins.fldLaunchpack
+launch pack(s)	sched.insp.launchpacks
+Launch packs	settings.launchPackTitle
+Launch Packs	docs.launchPacks.title
+Launch, uninstall	docs.diagram.app-catalog.n.LAUNCH
+Launched	apps.history.launched
+Launcher missing	docs.diagram.launch-packs.n.MISSING
+Launcher present?	docs.diagram.launch-packs.n.HAS_VBS
+Launcher updated	apps.launcherSet
+launcher.vbs	docs.diagram.launch-packs.n.VBS
+Laya	docs.diagram.telemetry-pipeline.e.laya
+Laya (AI)	sched.allowAiTitle
+Laya (local)	ai.src.laya
+Laya allowed	docs.diagram.semantic-search.e.layaAllowed
+Laya engine	laya.cause.ai_engine
+Laya settings	ai.hub.tabsAria
+Laya statistics	docs.diagram.telemetry-pipeline.n.LAYA_STATS
+Laya steps	docs.diagram.scheduler.n.LAYA
+Laya tags	sched.prev.w.tags
+Laya task	sched.ai.runTask
+laya-serve	docs.diagram.laya-pipeline.e.local
+Laya’s tags	sched.ai.lib.wSuggest
+Layer viewer.	dev.tool.zIndex.desc
+Layout	settings.toolbarDensity
+Layout applied	cardorder.applied
+Layout editor	sched.view.w.layout
+Layout Grid	dev.tool.cssGrid.title
+Leads to	docs.diagram.ui.to
+Learn more	mod.protectedFolder.learnMore
+learning {v}	sched.why.watchArming
+legacy {v}	repo.format.legacy
+Legend	docs.diagram.ui.legend
+Length	ai.draft.length
+Let's go!	onboard.s8.title
+Let's mod	prof.firstCta
+Level	tools.logs.level
+Library	settings.group.library
+Library analysis	ai.lt.area.library
+Library cards	anim.name.ph
+Library filters	lib.toolbar
+Library scanned	tutc.act.MODS_SCANNED
+Library toolbar	settings.sub.toolbar
+Licence	credits.licTitle
+Licence source	credits.stackLicenceSource
+Licences	credits.stackLicences
+License	credits.license
+Light	themes.modeLight
+Lightweight	plugins.fldLightweight
+Lightweight Architecture	docs.gallery.btn.lightweightArchitecture
+likely duplicates	sched.ai.lk.duplicates
+limited	docs.diagram.security-system.e.limited
+Limited access	security.modal.limited
+Limited bandwidth	faq.vps.home5
+Limits	repo.static.md.limitsTitle
+Line	sched.bmms.line
+line:col	docs.diagram.bmmscript-flow.e.lineCol
+Link	themes.ed.tpl.link
+link	cm.kindLink
+Link (Ctrl+K)	orderList.fmt.link
+Link Discord	settings.link.discord
+Link gate	docs.diagram.one-click-install.n.GATE
+Link Missing	modpack.repair.linkMissing
+Link type	mdd.linkType
+linked	catpub.linked
+Linked API	plugins.fldLinkedApi
+Linked as	settings.link.linkedAs
+Linked automatically	docs.modUpdates.feat1.title
+Links	detail.download_links
+links.json	docs.diagram.app-update.n.LINKS
+List	mapper.pv.list
+list	plugins.qtTypeList
+List deleted.	orderList.deleted
+List description...	mm.descriptionPlaceholder
+List imported.	mm.importSuccess
+List Modpacks	plugins.ep.modpacks
+List modpacks	plugins.actionListModpacks
+List mods	plugins.actionListMods
+List Name	mod.listName
+list name	sched.fe.listPh
+List Permissions	plugins.ep.listPerms
+List plugins	plugins.actionListPlugins
+List profiles	plugins.actionListProfiles
+List repos	plugins.actionRepoList
+List: empty	sched.act.list.clear
+Listing files	tools.phase.walk
+Lists	orderList.open
+Live	anim.live
+Live activity	stm.tab.live
+live calls	docs.diagram.code-stack.e.liveCalls
+Live errors	docs.diagram.crash-reporting.n.LIVE
+Live Monitor	bench.tabLive
+Live monitor	docs.diagram.perf-monitoring.g.LIVE
+live preview	docs.diagram.theme-system.e.preview
+Live preview	nbx.live
+Live Tracking	docs.benchmark.live
+llama.cpp	ai.gen.preset.llamacpp
+LM Studio	ai.gen.preset.lmstudio
+Load	tools.logs.load
+load	docs.diagram.laya-pipeline.e.load
+Load example	sched.loadExample
+Load order	laya.area.load_order
+Loaded	ai.gen.loaded
+LOADED !	common.loaded
+loaded {f}	sched.trScr.loaded
+Loading catalog...	apps.loading
+Loading license...	license.loading
+Loading modpacks...	modpack.loadingModpacks
+Loading profiles...	repo.loadingProfiles
+Loading replay…	watcher.loading
+Loading repositories...	repo.browserLoading
+Loading...	common.loading
+Loading…	community.loading
+loads	docs.diagram.code-stack.e.loads
+Local	orderList.pick.local
+local	ai.set2.genLocal
+Local API	consent.source.api
+Local Catalog	plugins.ep.catalog
+Local copy...	mm.copyLocal
+local IPC	docs.diagram.discord-rpc.e.ipc
+Local model	ai.src.local
+Local network	repo.share.addrLan
+Local only	nbx.presetLocal
+Local Recovery	modpack.repair.localRecovery
+LOCATION	settings.appPicker.colPath
+locked	repo.extras.lockedTag
+Log	tools.logs.which
+Log viewer	tools.logs.name
+Logo (short)	gfx.intro.logo
+LOGS	dev.label.logs
+Long	ai.draft.length.long
+Look here	tut.showme.look
+Look inside	settings.catIndex.preview
+Looking…	ai.ask.loading
+Lookup (core/i18n.ts)	docs.diagram.i18n-system.g.LOOKUP
+Loop	sched.addLoop
+LOOP	sched.loopBody
+low	res.io.low
+Low	navedit.presetLow
+low priority	stm.presets.r.low
+Low risk	nbx.riskLow
+Low-space alert	sched.flag.storage_alert_enabled
+Machine UUID	analytics.extra.uuid
+Main page	navedit.mainDoc
+Main text	themes.tok.text-primary
+Maintenance	res.k.maintenance
+MAJOR	update.badge.major
+Major	repo.version.major
+Major release	update.whatsNew1Tag
+Make sure	sched.flow.kind.ensure
+Manage keys	repo.ssh.manageKeys
+Manage keys…	srcacc.manage
+Manage Laya	ai.hub.manage
+Manage servers…	sshact.manage
+Manage…	repo.syncKeyManage
+Manifest	repo.discoverManifest
+Manifest only	repo.method.manifest
+manifest only	docs.diagram.hosting-flow.e.manifestOnly
+Manual installation	faq.docker.without1
+map name	sched.fe.mapPh
+Map: empty	sched.act.map.clear
+Mapper	nav.label.mapper
+Mapper opened	tutc.act.MAPPER_OPENED
+Mapper Operations	docs.gallery.btn.modMapper
+Mapping	stm.subj.mapper
+Margin	laya.dbg.margin
+Mark read	notif.markRead
+Marker	rstudio.marker
+Markers	rstudio.markers
+masked	watcher.masked
+masked excerpts	docs.diagram.laya-crash-analysis.e.maskedExcerpts
+Match Context	docs.search.ctx.title
+match(es)	anim.matches
+Matched-terms count	docs.diagram.semantic-search.n.COUNT
+matches	sched.txtOp.matches
+Matches	laya.dbg.whyOk
+Math error	sched.mathErr
+max	sched.loopMax
+Max	stm.presets.int.max
+Max total	crashmgr.maxSize
+Maximize	common.maximize
+maybe	sched.prev.maybe
+Maybe later	kofi.later
+MB	stm.unit.mb
+MB/s	res.col.rate
+MCP server	consent.source.mcp
+MCP tools	docs.diagram.mcp-server.n.MCP
+Mean	laya.dbg.statMean
+Meant for	orderList.scope
+Measure	tools.cache.measure
+Measuring	stm.subj.size
+Measuring caches	activity.cmd.toolsCachePreview
+Measuring profiles	tools.phase.profiles
+Measuring…	sched.dr.measuring
+MECHANICS	docs.exploreMods
+Medium	plugins.pc.riskMedium
+Meet Laya	tut.laya.meet.title
+MEMORY	dev.btn.memSnap
+Memory	laya.family.memory
+Memory (BMM)	bench.ui.ram
+memory budget	rstudio.budget
+Memory line	themes.tok.chart-ram
+memory snapshot	dev.export.memory
+merged	docs.diagram.app-catalog.e.merged
+Mermaid.js	docs.techStack.mermaid
+Message	plugins.fldMessage
+message	sched.message
+Message text	plugins.messageText
+Method	plugins.fldMethod
+Mid	navedit.presetMid
+Middle button	sk.dev.middle
+middle-click	themes.pickMiddle
+min	common.minutes
+Mine	hub.cat.mine
+Mini-Monitor	bench.miniMonitor
+Minimise	popout.minimize
+Minimize	common.minimize
+Minimum confidence	ai.lt.f.threshold
+Minor	repo.version.minor
+mirror {host}	ai.emb.mirror
+Mismatch	sha.state.mismatch
+mismatch	docs.diagram.security-system.e.mismatch
+Missing	sha.rep.missingT
+missing	i18n.missing
+Missing files	integrity.missing
+Missing mods	modpack.missingMods
+MISSING_SHA	docs.diagram.integrity-engine.e.missingSha
+MOD	hub.assets.type.mod
+Mod	plugins.qtFieldMod
+Mod activity	actjob.ariaLabel
+Mod added	tutc.act.MOD_ADDED
+Mod Architecture	docs.gallery.btn.modArchitecture
+Mod cache	sched.cc.t.mod_cache
+Mod Comparison	plugins.compareModalTitle
+Mod conflict	laya.cause.mod_conflict
+Mod description	ai.lt.src.mod_description
+Mod details	mdd.tabsLabel
+Mod enabled	docs.diagram.faq-disk-full.n.ON
+Mod entry	docs.diagram.mod-architecture.n.ENTRY
+Mod Files	mod.openActiveFolder
+mod files	docs.diagram.code-stack.e.bigCopies
+Mod files	laya.family.mod_files
+Mod folder	detail.folder
+Mod history	snav.modal.modsHistory
+Mod ID	plugins.fldModId
+Mod Library	lib.title
+Mod library	snav.page.library
+Mod list	mm.cat.kind
+Mod List	plugins.createModList
+Mod Lists	mm.title
+Mod lists	sched.cat.t.list
+Mod Mapper	mapper.title
+Mod name	mod.importNameLabel
+Mod readme	ai.lt.src.mod_readme
+Mod refused	docs.diagram.faq-disk-full.n.REFUSED
+Mod Root	mapper.modRoot
+Mod saved.	mod.saved
+Mod Source	conflict.modSource
+Mod Structure	mapper.modSide
+Mod suggestions	ai.set2.fMod
+Mod Tags	mod.tagsTitle
+Mod tree	docs.diagram.mod-mapper.n.MOD_TREE
+Mod updated	docs.diagram.update-system.n.DONE
+Mod updates	docs.diagram.update-system.title
+mod(s) selected	plugins.modsSelected
+Modding Mechanics	docs.gallery.btn.moddingMechanics
+Mode	themes.ed.mode
+Model	ai.settings.externalModel
+Model (pinned)	laya.dbg.model
+Model list	ai.gen.step.models
+Model: {state}	ai.hub2.model
+Modes	docs.scriptGenModes
+Modification Details	history.detail.title
+Modified	history.action.Modified
+Modified files	integrity.modified
+Modlists	nav.modlist
+MODPACK	modpack.modpackBadge
+Modpack	plugins.qtFieldModpack
+modpack	sched.prev.w.modpack
+Modpack activated.	plugins.deepLinkModpackEnabled
+Modpack applied	tutc.act.MODPACK_APPLIED
+Modpack catalogues	modpack.cat.title
+Modpack created	tutc.act.MODPACK_CREATED
+Modpack deactivated.	modpack.deactivatedOk
+Modpack deleted.	modpack.deletedOk
+Modpack description	ai.draft.field.modpack
+Modpack editor	docs.diagram.modpack-flow.n.EDITOR
+Modpack exported!	modpack.exportSuccess
+Modpack ID	plugins.fldModpackId
+Modpack id.	plugins.dl.modpack_disable.p.id
+Modpack Lifecycle	docs.gallery.btn.modpackFlow
+Modpack Name	modpack.name
+modpack name	sched.mpNamePh
+Modpack name	sched.mpNameLbl
+Modpack saved!	modpack.savedOk
+modpack(s)	sched.insp.modpacks
+Modpacks	settings.export.modpacks
+modpacks	plugins.catKind.modpack
+modpacks/<id>.json	docs.diagram.modpack-flow.n.PACK_FILE
+Mods	mm.modsCount
+mods	modpack.cat.mods
+mods added	docs.diagram.mod-sync.e.modsAdded
+mods available	modpack.modsAvailable
+Mods Data	settings.exportMods
+Mods folder	prof.modsDir
+Mods Folder	storage.modsDir
+mods folder	sched.syncModsPh
+MODS FOLDERS	repo.manifestModsDirs
+Mods from	modpack.ui.source
+mods hashed	settings.shaStatsHashed
+Mods Import	docs.gallery.btn.modImport
+mods included	modpack.modsIncluded
+Mods Library	settings.export.mods
+Mods Management	modpack.modsManagement
+Mods on/off	activity.kind.activation
+Mods path	plugins.fldModsPath
+mods read	sched.ai.lk.total
+mods required	plugins.modsRequired
+mods written	ai.lib.statMods
+Mon	sched.dow1
+monitor	docs.diagram.perf-monitoring.e.monitor
+Monitoring	repo.monitoring
+More actions	mod.moreActionsTip
+More icons	nbx.icMore
+More icons…	iconpack.more
+More options	settings.moreOptions
+More tools	tools.group.more
+more…	i18n.more
+Most mods	modpack.ui.sortMods
+Mounted files	docs.diagram.docker-deployment.n.VOLUMES
+Move	common.move
+move	sched.flow.palMove
+Move down	catsrc.act.down
+Move up	catsrc.act.up
+Moved	mapper.pv.f.moved
+moved	mapper.pv.movedTag
+MSI package	oldInstalls.installerMsi
+Multi-disk	docs.storageAlerts.multiDisk
+Multi-profile	modpack.multiProfile
+Multi-Profile Support	docs.modpacks.multiProf
+Multi-repo hub	docs.diagram.hosting-flow.n.HUB
+Multi-Restoration	docs.basic.conflict.q3
+My App	plugins.phAppTitle
+My automations	sched.tcb.namePh
+My Catalog	apps.create.namePh
+My catalogs	plugins.myCatalogs
+My catalogue	sched.catNamePh
+My catalogues	settings.catIndex.makeDefName
+My catalogues…	sched.tcb.open
+My consents	consent.title
+My icons	iconpack.mineTab
+My Modpack	plugins.phModpackName
+My modpacks	modpack.cat.build.defName
+My mods	bench.myMods
+my mods	docs.diagram.perf-monitoring.e.myMods
+My nickname	plugins.phAuthorName
+My page	nbx.badge.page
+My pages	nbx.orphans
+My plugins	sched.catKindPlugin
+My replays	watcher.list
+My tags	ai.lt.hintTags
+My task	ai.lt.newTaskName
+My tasks	ai.hub.tabTasks
+My theme	themes.ed.untitled
+My themes	sched.catKindTheme
+My tutorial	tutc.namePh
+My tutorials	tutcat.b.defname
+MyMod	sched.modNamePh
+N times	sched.loop.times
+N/A	common.na
+Name	skd.name
+name	sched.phName
+Name (A-Z)	lib.sortNameAsc
+Name (optional)	catsrc.editor.name
+name (optional)	sched.repoNamePh
+Name (Z-A)	lib.sortNameDesc
+name contains…	sched.nameContains
+Name it	plugins.fldKeyName
+Name only	orderList.q.name
+Name required	sched.needName
+Name...	mapper.namePlaceholder
+name=value	plugins.varNameValue
+names	docs.diagram.app-catalog.e.names
+Names:	sched.insp.targets
+Native controls	themes.tok.color-scheme
+Navbar editor	sched.view.w.navbar
+Navigate BMM	sched.grp.nav
+Navigation imported	navedit.bundleImported
+Navigation layout	sched.bk.sNav
+Need Help?	settings.needHelp
+Needs attention	hub.badge.error
+needs {n}:1	themes.ed.needs
+needs “{what}”	sched.flow.needs
+needs: {p}	sched.dr.needs
+Net Latency	bench.network
+network	docs.diagram.custom-pages.e.network
+Network	sched.allowNetTitle
+Neutral	sched.flow.tone.neutral
+NEW	mapper.newBadge
+New	mapper.pv.new
+New analysis	ai.lib.again
+New animation	anim.new
+New automation	auto.create
+New catalog	plugins.newCatalog
+New Features	faq.category.newFeatures
+New file	tools.jsondiff.b
+New Folder	mapper.newFolder
+new id	docs.diagram.modpack-flow.e.newId
+new language	docs.diagram.i18n-system.e.newLanguage
+New list	orderList.new
+New Modpack	modpack.newPack
+New name	plugins.fldNewName
+new path	docs.diagram.mod-sync.e.unknownPath
+New Plugin	plugins.createTitle
+New plugin	plugins.pc.newPlugin
+New profile	themes.ed.pv.dialogTitle
+new profile	docs.diagram.one-click-install.e.newProfile
+New section	navedit.newSection
+New shortcut	sk.new
+New tag…	detail.newTag
+New task	ai.lt.newTask
+New token	ai.api.rotate
+New version	update.newVersion
+Newer	update.newerTag
+Newer version?	docs.diagram.app-update.n.NEWER
+News	launch.ann.news
+Next	hub.next
+next	sched.next
+next read	docs.diagram.mod-sync.e.nextRead
+next start	docs.diagram.crash-reporting.e.nextStart
+Next turn	sched.flow.kind.continue
+Next →	onboard.next
+Next: {step}	apps.create.next
+ngrok Tunnel	docs.docker.tunnelTitle
+No	common.no
+no	docs.diagram.common.no
+no address	sched.net.why.empty
+No auth	plugins.noAuth
+no backup	docs.diagram.backup-system.e.skip
+No baseline	sha.noBaseline
+no BetterInstaller	docs.diagram.app-update.e.notInstaller
+No button	nbx.noButton
+No changes	mdd.noChanges
+No conflicts.	tools.conflicts.none
+No connection	laya.cause.network_offline
+No drafting.	ai.gen.kindOffHint
+No hash	sha.state.missing
+no hash	docs.diagram.integrity-engine.e.noHash
+No hashes	mm.hashNone
+No hint.	ai.report.hintNone
+No image	prof.bgNone
+No mod	tools.deployed.noMod
+No model	ai.gen.code.no_models
+No mods	prof.noMods
+No permission	plugins.pc.permsNone
+No permission.	sched.pkg.revAsksNone
+No profile	tools.noProfile
+No proposal.	laya.fb.nothing
+No results	apps.noResults
+No results.	settings.appPicker.noResults
+no source	plugins.pcbNoSource
+no tag	sched.ai.lib.wUntagged
+no text	docs.diagram.laya-pipeline.e.noText
+No thanks	analytics.decline
+No token	plugins.epNoToken
+no URL	apps.create.pbNoUrlShort
+No version	tools.names.i.version_empty
+No whitelist	srv.filterNoWhitelist
+Node Highlighting	docs.search.nodeGlow
+Node.js server	docs.diagram.lightweight-architecture.n.NODE
+Non traduit	community.untranslatedTag
+None	settings.identity.authKeyNone
+none	ai.set2.none
+None yet	ai.hub2.noTasksPill
+None yet.	stm.game.noneAdded
+Normal	themes.stateNormal
+normal	res.io.normal
+normal priority	stm.presets.r.normal
+NOT	sched.not
+not	sched.condNot
+Not checked	sha.state.unchecked
+NOT COMPUTED	detail.cid.missing
+Not dated	community.undated
+not enough	docs.diagram.faq-disk-full.e.tooSmall
+Not equals	plugins.fldNotEquals
+Not filed	sched.list.unfiled
+Not found	orderList.q.missing
+not https	docs.diagram.one-click-install.e.notHttps
+Not installed	apps.filter.notInstalled
+not installed	mg.missing
+Not now	update.stagedNotNow
+Not recommended	csp.notRecommended
+Not set	sk.notSet
+not set	sched.flow.unbound
+Not signed	catsrc.sig.unsigned
+Not started	hub.badge.pending
+not there	plugins.contents.missing
+not translated	community.notTranslated
+not writable	repo.ssh.testNotWritableShort
+NOT writable	sshsrv.notWritable
+Note	themes.ed.tpl.note
+NOTE	update.alert.note
+Note callout	orderList.fmt.note
+Notes	docs.scriptGenFmtNote
+Notes (B.MD)	orderList.notes
+Notes: {m}	orderList.notesEditorTitle
+Nothing	repo.mini.syncNone
+nothing	stm.game.nothingHeld
+Nothing collected	docs.diagram.telemetry-pipeline.n.NOTHING
+Nothing found	docs.diagram.ui.noMatch
+Nothing matches	sha.noMatch
+Nothing matches.	skd.noMatch
+Nothing moves	order.mode.keep
+Nothing read	docs.diagram.laya-crash-analysis.n.OFF
+nothing recognisable	sched.valid.nothing
+Nothing running.	res.idle
+Nothing runs	docs.diagram.laya-pipeline.n.BLOCKED
+Nothing selected	nbx.emptyTitle
+Nothing shown	docs.diagram.discord-rpc.n.NONE
+nothing yet	fbm.sumNone
+Nothing yet.	notif.empty
+Notification border	themes.tok.toast-border
+Notification fill	themes.tok.toast-bg
+Notification text	themes.tok.toast-text
+Notifications	settings.notifications
+Notifications on	settings.toastsOn
+notify	navedit.capNotify
+Now	ai.sug3.now
+Now:	ai.suggest.current
+NSIS setup	oldInstalls.installerNsis
+number	plugins.qtTypeNum
+Numbered list	orderList.fmt.ol
+Numbered steps	orderList.fmt.steps
+NVMe SSD	stm.presets.k.nvme
+Observe	dev.nav.observe
+Off	repo.mini.off
+off	apps.sources.isOff
+OFFICIAL	plugins.official
+Official	catsrc.tier.official
+Official catalog	plugins.catalogOfficial
+Official catalogue	docs.diagram.app-catalog.n.OFFICIAL
+Official Subreddit	credits.reddit
+Official website	credits.betterCommunitySub
+Offline	docs.diagram.offline-mode.n.OFFLINE
+offline	docs.diagram.common.offline
+Offline banner	docs.diagram.offline-mode.n.BANNER
+Offline detection	docs.diagram.offline-mode.title
+Offset (s)	anim.offset
+OK	common.ok
+ok	docs.diagram.common.ok
+Old file	tools.jsondiff.a
+Old installations	oldInstalls.cardTitle
+old signature	repo.convert.kind.signature_removed
+Ollama	ai.gen.preset.ollama
+Ollama list	ai.gen.step.ollama
+On	tools.on
+on	apps.sources.isOn
+On apply	plugins.applyMode
+on change	docs.diagram.offline-mode.e.changed
+on demand	docs.diagram.code-stack.e.onDemand
+On disk	docs.diagram.cache-management.g.DISK
+on enable	docs.diagram.conflict-management.e.onEnable
+ON ERROR	sched.tryCatch
+On page	sched.nv.onPage
+on screen	repo.cat.b.screen
+On screen	docs.diagram.i18n-system.g.SCREEN
+on timeout	sched.onTimeout
+On:	ai.api.running
+Once on	sched.lblOnce
+One bundle	cm.outBundle
+One-Click Installation	mod.importTitle
+One-command start	faq.docker.with1
+Online	docs.diagram.offline-mode.n.ONLINE
+online	docs.diagram.common.online
+Online API	ai.gen.kindExternal
+Online only	repo.browseOnlineOnly
+Only Missing	settings.shaRecalcMissing
+Only when	sched.trEventWhere
+Only {m}	cv.onlyMod
+Open	mm.cat.open
+Open anyway	themes.ed.switchAnyway
+Open Automations	auto.open
+OPEN DEVTOOLS	dev.btn.openDevtools
+Open File	ctx.openFile
+Open folder	settings.crashOpenFolder
+Open Integrity…	integrity.openCenter
+Open it	tut.basics.moddetails.s2.title
+Open location	prof.openDir
+Open Location	ctx.openFolder
+open order	docs.diagram.conflict-management.e.openOrder
+Open source	apps.price.oss
+Open standard	docs.basic.mm.q2
+Open URL	plugins.actionOpenUrl
+Open website	community.openWeb
+Open: {title}	docs.diagram.ui.openDiagram
+OpenAI-compatible	ai.gen.server.openai
+Opened	common.openInBmm
+opened	docs.diagram.bmmscript-flow.e.open
+Opened {id}	snav.done.item
+Opened {m}	snav.done.modal
+Opened {p}	snav.done.page
+Opening...	hub.assets.downloading
+Opens	nbx.opens
+Operation	bench.cmpOp
+Operation Benchmark	bench.subtitleBench
+Operation completed.	repo.syncComplete
+Operation id	api.card.fldTicket
+Operation time	bench.chartTime
+operation(s) running	lib.opsRunning
+Operations	bench.ui.opsCount
+opt.	plugins.pc.optShort
+Optimizing...	storage.optimizing
+OPTIONAL	settings.optional
+optional	common.optional
+Optional fields	plugins.qtOptionalFields
+Optional generator	docs.diagram.laya-pipeline.n.GENERATOR
+Options	sched.secOptions
+or	common.or
+or pid	sched.pidPh
+or URL	sched.replayUrlPh
+Order	orderList.order
+Order code	order.import.kind.code
+Order lists	tut.order.lists.title
+Order matters	docs.basic.conflict.q1
+Order view	docs.diagram.conflict-management.n.VIEW
+order, on/off	docs.diagram.mod-architecture.e.orderAndState
+Origin	catsrc.details.tier
+Origin repo	repo.cfgOrigin
+Original	i18n.original
+Original name	nbx.nameReset
+original saved	docs.diagram.mod-architecture.e.replacedOriginal
+OS Notifications	settings.sysNotif
+Other	settings.group.other
+Other cause	laya.cause.other
+other kinds	docs.diagram.engine-threads.e.otherKinds
+Other languages	i18n.otherLangs
+Other mods	ai.lib.otherMods
+Other profile:	repo.syncOther
+Other profiles	mod.otherProfiles
+Other tasks	sched.allowTasksTitle
+Other tokens	themes.ed.grp.other
+Outcome	laya.dbg.outcome
+Outline	sched.outline.toggle
+Outline only	tutc.style.ring
+Output folder	plugins.fldOutputFolder
+Output format	plugins.genFormat
+Outside BMM	docs.diagram.scheduler.g.DO
+outside BMM	sched.dr.e.external
+overlap	sched.ai.lib.wConflict
+Overlap count	docs.diagram.conflict-management.n.CALC
+overlapping mods	sched.ai.lk.conflicts
+overrides	docs.diagram.i18n-system.e.overrides
+Overview	mdd.tab.overview
+Overwrite	plugins.optOverwrite
+Overwrite all	plugins.fldOverwriteAll
+Overwrite it	sched.bk.inc.overwrite
+Overwrites	mapper.pv.overwrites
+OvGME	legacy.ovgme
+OvGME Software	prof.importOvgme
+owed	docs.diagram.scheduler.e.owed
+own	laya.dbg.ownChip
+own dialog	docs.diagram.deeplinks.e.ownDialog
+Pack deleted.	settings.launchPackDeleted
+Pack Icon	settings.launchPackIcon
+Pack IDs	modpack.ui.ids
+Pack Name	settings.launchPackName
+Pack switch	docs.diagram.modpack-flow.n.SWITCH
+Package	sched.pkg.chip
+Package (.bmmbundle)	sched.ex.package
+Packing archives	stm.game.k.compress
+Packs available	modpack.cat.available
+page	docs.diagram.security-system.e.page
+Page	sched.nv.page
+Page broker	docs.diagram.custom-pages.n.BROKER
+Page created	navedit.pageCreated
+Page name	navedit.pageName
+Page saved	navedit.pageSaved
+page_fetch	docs.diagram.custom-pages.n.FETCH
+Paid	apps.price.paid
+Palette	themes.palette
+Pan	sched.flow.gPan
+Panels	dev.nav.panels
+Panic Hook	docs.crashReport.q2
+Parameter	plugins.epParam
+Parent folder	repo.ssh.browserUp
+Part	tutc.addPart
+Part name	tutc.partName
+Partly on	modpack.act.statePartial
+Partner	catsrc.tier.partner
+Partner catalogues	docs.diagram.app-catalog.n.PARTNER
+parts	hub.parts
+Parts	hub.partsTitle
+Passphrase	repo.ssh.passphrase
+Passphrase (optional)	settings.exportPass
+Password	repo.miniServerPassword
+Password required	repo.passwordPrompt.title
+Paste after	sched.flow.paste
+PAT FAQ	settings.patHelpBtn
+Patch	repo.version.patch
+Path	plugins.fldApiPath
+Path copied!	mapper.pathCopied
+Path copied.	repo.remotePathCopied
+Path guard	docs.diagram.security-system.n.PATHS
+path in	docs.diagram.mod-architecture.e.pathIn
+Path refused	tools.deployed.k.unsafe_path
+paths	docs.diagram.security-system.e.paths
+Pause	common.pause
+Pause all	res.pauseAll
+Paused	bench.ui.paused
+paused	res.st.paused
+PAUSED	repo.pausedBadge
+pauses	docs.diagram.engine-threads.e.pauses
+pauses background	docs.diagram.disk-io-limiter.e.pausesBg
+Payload (optional)	plugins.fldSignalData
+Payload deleted	docs.diagram.app-catalog.n.DROPPED
+Payload size	dev.session.payload
+PC CPU	res.cpuSys
+peak {v}	bench.ui.peak
+Pending changes	docs.diagram.mod-mapper.n.QUEUE
+People	nbx.icCat.people
+per file	docs.diagram.mod-activation.e.perFile
+PER ITEM	sched.fe.body
+Per-file SHA-256	docs.diagram.security-system.n.REPO_HASH
+Per-plugin permissions	plugins.perPluginPermTitle
+Perfect deactivation	docs.basic.backup.q2
+Performance	settings.group.performance
+Performance Auto-Calibration	storage.autoCalibTitle
+Performance Monitoring	docs.gallery.btn.perfMonitoring
+Performance window	docs.diagram.perf-monitoring.n.OPEN
+Periodic flush	docs.diagram.telemetry-pipeline.n.FLUSH
+Permanent Deletion	mod.deleteConfirmMsg
+Permanently Delete	mapper.delete
+Permission	docs.permColPerm
+Permission copied	plugins.permCopied
+Permission granted?	docs.diagram.scheduler.n.PERMS
+permission_denied	docs.diagram.custom-pages.n.DENIED
+Permissions	plugins.tabPerms
+Permissions Reference	docs.permsTitle
+Permissions saved	plugins.permsSaved
+Pick	i18n.pickScreenShort
+Pick cancelled	anim.pickcancel
+Pick DCS.exe.	sched.dg.needExe
+Pick image…	plugins.pickIcon
+pick one	plugins.qtTypePick
+Pick one	sched.view.pick
+Pick one…	sched.syncTargetNone
+Picked	i18n.picked
+Pick…	tutc.pick
+Pictures	themes.ed.secPictures
+PID: 	dev.metric.pid
+Pin bar	lib.stickyHeaderOff
+Placement	themes.cePosition
+Places	nbx.icCat.places
+Plain text	sched.wh.fmtText
+Play	common.play
+Play session	crashmgr.playSession
+Played on	anim.played
+Playground	dev.tab.playground
+Plugin	plugins.qtFieldPlugin
+plugin	sched.prev.w.plugin
+Plugin (.bmmplug)	sched.imp.k.plugin
+Plugin deleted	plugins.deleted
+Plugin description	ai.draft.field.plugin
+Plugin exported	plugins.exported
+Plugin icon	plugins.customIconLabel
+Plugin ID	plugins.createId
+Plugin imported	plugins.imported
+Plugin installed	tutc.act.PLUGIN_INSTALLED
+plugin(s)	plugins.pluginsCount
+plugin.json structure	docs.pluginJsonTitle
+Plugins	settings.exportPlugins
+plugins	sched.cond.kind.plugin
+Popular	kofi.popular
+Popup notifications	settings.toastsMute
+Port	repo.hub.port
+Port (server)	plugins.fldPortServer
+Port:	repo.portLabel
+Position	nbx.position
+Position {n}	order.position
+postMessage	docs.diagram.custom-pages.e.postMessage
+POTENTIAL	conflict.potential
+Potential	tools.conflicts.potential
+Potential only	conflict.onlyPotential
+Power saving	stm.gfx.mode.power_saving
+Pre-release	update.preReleaseTag
+PRECISE	detail.cid.precise
+Precise	ai.draft.creativity.precise
+prefills	docs.diagram.mod-import.e.prefill
+Preparing...	modpack.repair.preparing
+Preparing…	ai.draft.sentLoading
+Present	mm.modPresent
+present	docs.diagram.mod-sync.e.stillThere
+preset	res.src.preset
+Preset	anim.preset
+Presets	csp.presets
+Presets folder	themes.presetsFolder
+Preview	themes.ed.secPreview
+preview	docs.diagram.mod-mapper.e.check
+Preview finished.	sched.dr.finished
+Preview JSON	apps.create.preview
+Preview live	i18n.previewLive
+Preview only	plugins.fldDryRun
+Preview unavailable.	rstudio.pv.fail
+Previous	launch.prev
+price	plugins.qtCatAppPrice
+Price	apps.create.fPrice
+Priority	res.col.io
+Priority queue	docs.diagram.integrity-engine.n.PRIORITY
+Privacy	ai.hub.tabPrivacy
+Privacy Policy	credits.privacy
+Privacy policy	navedit.act.privacy
+Private key	repo.ssh.keyPath
+Probable cause	crashmgr.laya.causeTitle
+Probably	ai.suggest.nsfwYes
+Probably not	ai.suggest.nsfwNo
+Process name	plugins.fldProcessName
+Process Uptime	bench.uptime
+Processing	common.processing
+Production	settings.link.testmodeOff
+Professional Timeline	docs.benchmark.timeline
+Profile	conflict.fProfile
+profile	sched.prev.w.profile
+Profile (optional)	plugins.fldProfileIdOpt
+Profile A	tools.diff.a
+Profile B	tools.diff.b
+Profile card	docs.diagram.profile-customization.n.CARD
+Profile cards	docs.diagram.profile-system.n.CARDS
+Profile created	tutc.act.PROFILE_CREATED
+Profile Customization	docs.gallery.btn.profileCustomization
+Profile deleted.	prof.deleted
+Profile dialog	docs.diagram.profile-customization.g.DIALOG
+Profile diff	tools.diff.name
+Profile edited	tutc.act.PROFILE_EDITED
+Profile exists	sched.cond.profileExists
+profile fields	docs.diagram.profile-customization.e.fields
+Profile name	themes.ed.pv.field
+Profile saved	themes.ed.pv.toastOk
+Profile System	docs.gallery.btn.profileSystem
+Profile UUID	plugins.fldProfileUuid
+Profile: 	mod.profilLabel
+Profile: {name}	settings.discordRpcDetails
+Profiles	settings.export.profiles
+profiles	ai.lib.statProfiles
+Profiles ({count}):	repo.profilesCount
+Profiles screen	docs.diagram.profile-system.g.USE
+program	sched.phProgram
+Program (.exe)	sched.gl.exe
+Programs start	docs.diagram.launch-packs.n.APPS
+PROGRESS	repo.monColProgress
+Progress	repo.monProgress
+progress	docs.diagram.engine-threads.e.progress
+PROJECT	dev.label.project
+props	themes.props
+Protected	repo.cfgProtected
+Protected sources	settings.catIndex.access
+PROTOCOL	repo.monColProto
+Provider	laya.dbg.provider
+Providers	ai.hub.tabProviders
+Pruned	crashmgr.pruned
+PTB Tester	contributor.captain_pug.role
+PTB Testers	credits.subcategory.ptbTester
+Public	modpack.sharePublic
+Public Access	repo.hostPublicHintTitle
+Public address	repo.mini.publicUrl
+Public IP	repo.share.addrPublic
+Publish	mm.cat.write
+publish	docs.diagram.app-catalog.e.publish
+Publishing…	sshact.publishing
+Publish…	mm.cat.build
+Pull	repo.cat.b.pullbtn
+Purple	themes.tok.purple
+Put right.	sched.ensure.fixed
+Question	md.question
+Questions	laya.dbg.questions
+Queue Size	settings.shaStatsQueue
+Queued	sha.queued
+Quick presets	themes.quickPresets
+Quick set	nbx.quickSet
+Quick sharing	docs.basic.mm.q1
+Quick Test	plugins.quickTest
+Quick Update	update.quickUpdate
+Quiet	res.p.silent
+Quit BMM	eula.quit
+Quote	orderList.fmt.quote
+Ran	sched.ran
+ran {f}	sched.pa.ran
+Ranked results	docs.diagram.semantic-search.n.RESULTS
+Ranking	ai.set2.cls
+Ranking (front-end)	docs.diagram.semantic-search.g.RANK
+Ranking: {v}	ai.set2.stCls
+Raw code	plugins.actionRawCode
+Re-apply	docs.diagram.conflict-management.n.REAPPLY
+Re-checking files	stm.subj.rehash
+Re-download	repo.directUpdateBtn
+Re-hash	sha.rehash
+re-hash	docs.diagram.cache-management.e.reHash
+Re-hash anyway	sha.rehashYes
+Re-hash selected	sha.rehashSel
+Re-hash…	sha.rehashAll
+Re-link account	settings.link.relink
+Re-link Discord	settings.link.relinkDiscord
+Reachability probe	docs.diagram.offline-mode.n.PROBE
+Reaching it	docs.diagram.docker-deployment.n.EXPOSE
+Reaching {where}…	sshsrv.stepReach
+Read	bench.ui.read
+Read from	credits.stackSource
+Read hardware	api.act.resHardware
+Read it	tut.order.conflicts.s2.title
+Read more	apps.readMore
+Read resources	api.act.resStatus
+Read root	docs.diagram.mod-architecture.n.READ_ROOT
+Read:	ai.suggest.read
+Reading folder…	repo.ssh.browserLoading
+Reading repo.json…	repo.validate.phaseRead
+Reading {url}…	repo.followDlg.testing
+Reading…	order.import.reading
+README	apps.readme
+reads	docs.diagram.common.reads
+Reads	ai.lt.t.source
+Reads correctly.	tutc.wait.exprOk
+reads, writes	docs.diagram.mcp-server.e.readWrite
+Real	bench.real
+Rebuild	vfy.b.rebuild
+rebuild	docs.diagram.cache-management.e.rebuild
+rebuilds here	docs.diagram.launch-packs.e.rebuilds
+Recalculate	plugins.checksumRecalc
+Recalculate all	settings.shaRecalculateAllBtn
+Recalculate Hash	mods.sha.recalculate
+Recent	activity.recent
+Recent runs	sched.history
+Recent Servers	repo.syncHistoryLabel
+Recently updated	modpack.ui.sortRecent
+RECOMMENDED	common.recommended
+Recommended	update.recommended
+recommended	analytics.recommended
+Record	rstudio.rec
+Record video	rstudio.vrec
+Recorded	rstudio.done
+Recorder	dev.session.state
+Recorder unavailable	watcher.rrwebFail
+Recording	bench.ui.recording
+Recording video	rstudio.vstarted
+Recording…	rstudio.recording
+recover	docs.diagram.backup-system.e.recover
+Redo	themes.ed.redo
+Redo (Ctrl+Y)	themes.ed.redoTip
+Redone	sched.redone
+Reduce animations	gfx.reduceAnim
+Reference	sched.bmms.openDocs
+Reference copied	docs.diagram.ui.copied
+Reference Guides	docs.guidesTitle
+REFINE	update.badge.refine
+REFRESH	common.refresh
+Refresh	community.refresh
+Refresh anyway	vfy.b.refreshAnyway
+Refresh folders	mapper.refreshTip
+REFRESH LOGS	dev.btn.refreshLogs
+Refreshed {a}	catsrc.lastOk
+Refuse	bcv2.legal.refuse
+Refused	bcv2.legal.refusedShort
+refused	docs.diagram.common.refused
+Regenerate token?	settings.identity.resetTokenTitle
+Reinstall	themes.reinstall
+Related diagrams	docs.diagram.ui.related
+release	docs.diagram.app-update.e.release
+Release feed	docs.diagram.app-update.n.FEED
+Release Notes	settings.notesTitle
+RELEASE NOTES	settings.releaseNotes
+Release notes	update.title
+Reload	nbx.reload
+RELOAD APPLICATION	dev.crash.reload
+Reload payload	dev.session.reload
+remote	ai.set2.genExternal
+Remote folder	repo.ssh.remoteDir
+remote folder	repo.sshsrc.newDirPh
+Remote repo	repo.method.remote
+Remove	settings.identity.authKeyClear
+Remove app	apps.uninstall.removeApp
+Remove cut	rstudio.removecut
+Remove icon	prof.removeIcon
+Remove it	sched.catEnt.remove
+Remove language	settings.langRemove
+Remove marker	rstudio.removemarker
+Remove profile	repo.update.removeProfile
+Remove repo	plugins.actionRepoRemove
+Remove selected	oldInstalls.removeSelected
+Remove step	anim.step.remove
+removed	repo.summaryRemoved
+Removed	tools.jsondiff.removed
+Removed step	sched.removedStep
+Removed {f}.	plugins.assets.removed
+Removed {name}	settings.langRemoved
+Removed.	settings.catIndex.removed
+Removing {pct}%	actjob.stateRemoving
+Removing...	apps.state.removing
+Rename	mapper.rename
+rename	docs.diagram.profile-customization.e.rename
+Rendered	community.history.rendered
+repaint	docs.diagram.i18n-system.e.repaint
+repair	docs.diagram.conflict-management.e.repair
+Repair	activity.kind.repair
+Repair dialog	docs.diagram.modpack-flow.n.REPAIR
+Repair Impossible	modpack.repair.impossible
+Repair Required	modpack.repair.title
+repaired	docs.diagram.modpack-flow.e.repaired
+Repairing {name}…	modpack.repair.repairing
+Repair…	modpack.act.repair
+REPEAT	sched.repeat
+Replace	plugins.pc.replaceYes
+replaced files	docs.diagram.faq-deleted-mod.e.replacedFiles
+Replacement System	docs.mech.replace.title
+replaces	docs.diagram.backup-system.e.replaces
+Replay	bench.replayTime
+replay	dev.export.replay
+Replay Studio	rstudio.title
+Repo	sched.syncNewDefault
+Repo folder	plugins.fldRepoDir
+repo folder	sched.repoDirPh
+Repo Generation	docs.dedicatedHosting.gen
+Repo hub	navedit.act.repoHub
+Repo id	orderList.q.source
+Repo Info	plugins.ep.repoInfo
+Repo info	plugins.actionRepoInfo
+repo mod	docs.diagram.update-system.e.repo
+REPO NAME	repo.remoteName
+Repo profiles	plugins.qt.repoProfiles
+Repo updated	repo.update.done
+Repo URL	plugins.fldRepoUrl
+repo.json	docs.diagram.security-system.e.manifest
+repo.json generated	repo.manifestDone
+repo.json Path:	repo.miniServerRepoPath
+repo.json URL	repo.url
+repo_mod_id (optional)	repo.cfgModIdPh
+repo_mod_id copied	repo.update.idCopied
+REPORT	dev.btn.genReport
+Report categories	ai.lt.hintTriage
+Report File	crash.pathLabel
+Report hints	ai.set2.fReport
+report it	docs.diagram.crash-reporting.e.report
+Report proposals	laya.dbg.fReportAssist
+Report quality	fbm.quality
+Report saved	bench.reportSaved
+Report text	sched.ai.triageText
+Report type	fbm.kindPick
+Reported	docs.diagram.deeplinks.n.RESULT
+Repos	history.type.repos
+repos	plugins.catKind.repo
+repos found	repo.hub.found
+repositories	sched.cond.kind.repo
+Repository Details	repo.verifyDetail.title
+Repository Folder	repo.hostFolderLabel
+Repository History	repo.historyTitle
+Repository manifests	docs.diagram.blake3-hashing.n.REPO
+Repository signature	docs.diagram.security-system.n.REPO_SIG
+Request	sched.http.req
+request	docs.diagram.server-mode.e.request
+Request body	plugins.qtRequestBody
+Request Body	plugins.epRequestBody
+Request deletion	analytics.requestDelete
+Request rejected	analytics.deleteRejected
+requests	docs.diagram.custom-pages.e.requests
+required	plugins.qtRequired
+Required.	sched.v.required
+Requirements	apps.requirements
+Requirements (optional)	plugins.qtCatAppReqs
+Requires	mdd.requires
+Reroute point	sched.flow.reroute
+Rescan	themes.dropinRescan
+Rescan mods	mapper.rescanMods
+Reset	common.reset
+RESET	dev.btn.reset
+reset	docs.diagram.cache-management.e.reset
+Reset all	sk.resetAll
+Reset BMM	vfy.b.factory
+Reset filters	modpack.ui.resetFilters
+Reset sandbox	i18n.reset
+Reset token	plugins.resetToken
+Reset zoom	bench.ui.zoomReset
+Reset Zoom	docs.resetZoom
+Resolve conflicts	cv.openResolver
+resolved	community.comments.resolved
+Resolving one	tut.basics.conflicts.s1b.title
+Resource governor	docs.diagram.code-stack.n.GOVERNOR
+Resources	sched.allowResTitle
+Response	plugins.epDetailResponse
+Responses	plugins.epResponses
+Restart	hub.restart
+Restart BMM	plugins.ep.restart
+Restart BMM?	vfy.t.restart
+Restart now	vfy.b.restart
+Restart tutorial	settings.restartTutorial
+Restarts BMM	bmi.r.restart
+restore	docs.diagram.backup-system.e.restore
+Restore down	common.restoreDown
+Restore now?	restore.confirmTitle
+Restoring…	restore.working
+restricted	docs.diagram.deeplinks.e.restricted
+Restructuring mod...	mapper.restructuring
+result	sched.ruleResult
+Result	docs.diagram.modpack-flow.n.RESULT
+Results	nbx.icResults
+Resumable Downloads	docs.gallery.btn.resumableDownloads
+Resume	common.resume
+Resume all	res.resumeAll
+Resume everything	sched.res.q.resume_all
+Retained sample	dev.session.sample
+Retention	watcher.retention
+retention	docs.diagram.faq-disk-full.e.retention
+retrieval only	docs.diagram.semantic-search.e.retrievalOnly
+Retry	community.retry
+retry	docs.diagram.common.retry
+RETRY	sched.retry
+Reusable blocks	sched.bl.title
+Reveal	crashmgr.reveal
+Revert	themes.revert
+REVERT	history.revert
+Revert all	themes.revertAll
+Reverting...	common.reverting
+Review	navedit.reviewBtn
+Review dialog	docs.diagram.custom-pages.n.REVIEW
+revision {r}	bcv2.legal.revision
+Revoke	plugins.qtTokenRevoke
+Right-click	themes.pickRight
+Root	mapper.root
+Route	sched.api.route
+Routes	docs.diagram.deeplinks.g.ROUTES
+rules	docs.diagram.hosting-flow.e.rules
+Run	repo.hub.runHint
+run	docs.diagram.perf-monitoring.e.runBench
+run a	bms.d.script
+Run Benchmark	bench.run
+Run benchmark	sched.act.benchmark.run
+RUN BLOCK	sched.call
+Run JS	dev.btn.runJs
+Run log	sched.runlog.title
+Run now	sched.runNow
+run once	docs.diagram.bmmscript-flow.e.runOnce
+Run one	tut.other.benchmark.s2.title
+Run recorded	docs.diagram.scheduler.n.RESULT
+Run scripts	plugins.runScriptsYes
+run scripts	sched.permRunScript
+Run uninstaller	apps.uninstall.runUninstaller
+run_app_benchmark	docs.diagram.perf-monitoring.n.RUN
+run_launch_pack	docs.diagram.launch-packs.n.RUN_CMD
+running	res.st.running
+Running	tools.state.running
+Running "{name}"...	ai.lt.running
+Running now	sched.run.title
+runs	bench.cmpRuns
+Runs	sched.pg.trigger
+runTask	docs.diagram.scheduler.n.RUN
+Runtime	laya.dbg.runtime
+RUST	dev.subtab.rust
+Rust command	docs.diagram.kind.rust
+Rust commands	docs.diagram.code-stack.n.COMMANDS
+Rust core	credits.group.core
+Rust log	plugins.fldRustLog
+Rust panic	docs.diagram.crash-reporting.n.PANIC
+s	sched.unitSec
+Safety first	docs.basic.backup.q1
+Same	i18n.filterSameShort
+Same mod	orderList.q.id
+Same mods	tools.dupprofiles.identical
+same record	docs.diagram.mod-import.e.sameRecord
+same rules	docs.diagram.code-stack.e.sameRules
+same state	docs.diagram.code-stack.e.sameState
+Same-failure groups	docs.diagram.laya-crash-analysis.n.GROUPS
+Samples	bench.samples
+sampling	docs.diagram.telemetry-pipeline.e.sampling
+Sandbox	bench.sandbox
+sandbox	docs.diagram.perf-monitoring.e.sandbox
+Sandbox (synthetic)	plugins.optSandbox
+Sandbox reset	i18n.resetDone
+Sandboxed frame	docs.diagram.custom-pages.n.FRAME
+Sat	sched.dow6
+Save	settings.githubPatSave
+save	docs.diagram.bmmscript-flow.e.save
+Save as…	themes.saveAs
+Save changes	themes.ceSaveChanges
+Save CSV	tools.saveCsv
+Save failed.	rstudio.savefail
+Save file	order.share.save
+Save JSON	tools.saveJson
+Save locally	plugins.saveLocal
+Save Modpack	modpack.save
+Save permissions	plugins.savePerms
+Save script	plugins.saveScript
+Save shortcut	skd.save
+Save theme	themes.saveTheme
+Saved	common.saved
+Saved ({what})	dev.export.saved
+Saved lists	orderList.savedLists
+Saved repos	snav.modal.repoBrowse
+Saved sessions	crashmgr.tabSessions
+Saved task	docs.diagram.bmmscript-flow.n.SAVED
+Saved “{n}”.	sched.bl.saved
+Saved.	res.saved
+Save…	settings.identity.authKeySavePub
+Saving...	prof.bgCropSaving
+Saving…	rstudio.saving
+says	sched.cond.says
+Scan	i18n.hcRescan
+Scan again	oldInstalls.scanAgain
+Scanning	stm.subj.scan
+Scanning again…	oldInstalls.rescanning
+Scheduled automations	restore.s.automations
+Scheduled task	activity.kind.schedule
+Scheduler	notif.group.scheduler
+Scheduler runner	docs.diagram.bmmscript-flow.n.RUNNER
+schedules.json	docs.diagram.scheduler.n.TASKS
+Scope	api.card.fldScope
+Screen	plugins.fldViewId
+Screens	sched.view.gScreens
+Screenshots…	fbm.addShots
+Script	sched.insp.script
+script	bms.d.scriptSuffix
+Script generated	tutc.act.SCRIPT_GENERATED
+Script generator	plugins.api.secGenerator
+Script Generator	plugins.scriptGenerator
+Script pack	plugins.pc.tplScripts
+Script saved	plugins.scriptSaved
+Scripts	plugins.pluginScripts
+Search automations	sched.pc.search
+Search ban...	repo.banSearch
+Search files...	ctx.searchPlaceholder
+Search icons	nbx.icSearch
+Search mod...	conflict.searchPlaceholder
+Search modpacks	modpack.searchPh
+Search mods	themes.ed.pv.search
+Search mods...	lib.search
+Search posts…	community.search
+Search providers	docs.diagram.semantic-search.n.PROVIDERS
+Search settings	settings.searchPh
+Search templates…	sched.pg.search
+Search tutorials	hub.searchPh
+Search whitelist...	repo.whitelistSearch
+Search...	common.search
+Search…	settings.appPicker.search
+sec	common.seconds
+Secondary	themes.ed.pv.secondary
+Secondary text	themes.tok.text-secondary
+Seconds	plugins.fldSeconds
+Secret headers	sched.wh.secret
+SECTION	navedit.section
+Section name	navedit.sectionName
+Security	settings.securityTitle
+See it	docs.diagram.faq-disk-full.g.RECLAIM
+Seed	sched.gen.seed
+Seed from	i18n.newLangCopy
+seen above	mg.repeat
+select	common.select
+Select	iconpack.select
+Select All	common.selectAll
+Select all	repo.cat.pick.all
+Select Executables	settings.launchPackPickApps
+Select Folder	repo.miniServerSelectFolder
+Select Language	onboarding.lang_title
+Select Mods	modpack.selectMods
+Select none	repo.cat.pick.none
+Select repo.json	repo.miniServerSelectRepo
+Select several	sched.flow.gSelect
+Select {f}	cv.selectFile
+Select {name}	sha.selectOne
+Selected	themes.tok.bg-active
+selected	modpack.modsSelected
+Selected files	cv.batchLabel
+Selected mods	plugins.selectedMods
+Selector	themes.selector
+Selector captured.	tutc.pickOk
+SEMANTIC	docs.searchMode.semantic
+semantic	docs.diagram.semantic-search.e.semantic
+Semantic mode	docs.diagram.semantic-search.g.EXPAND
+Send	fbm.send
+Sending…	fbm.sending
+serve	docs.diagram.mcp-server.e.serve
+Serve it	docs.diagram.hosting-flow.g.SERVE
+SERVER	docs.exploreServer
+Server	repo.serverPanelTitle
+server	docs.diagram.lightweight-architecture.e.server
+Server address	sched.gr.server
+SERVER ARCHITECTURE	docs.serverMode
+Server Configuration	docs.dedicatedHosting.config
+Server error	laya.cause.network_server
+Server Mode	docs.gallery.btn.serverMode
+Server monitoring	repo.monitoringTitle
+Server offline	repo.serverOffline
+Server online	repo.head.serverOn
+Server options	repo.tool.options.t
+Server repo	repo.cfgKindRepo
+Server Repo	themes.ed.pv.repo
+Server repos	tut.advanced.repo.title
+Server Repository	docs.serverRepo.title
+Server saved.	sshsrv.saved
+Server Seed	docs.serverRepo.seedTitle
+Server started!	repo.hostServerStarted
+Server stopped	repo.hostServerStopped
+Server type?	docs.diagram.lightweight-architecture.n.TYPE
+Server version	repo.serverVersion
+ServerRepo	modpack.fallbackSR
+Servers	sshsrv.list
+Serving	repo.serverStarted
+Session	tools.logs.session
+session	docs.diagram.crash-reporting.e.session
+Session exported	bench.sessionSaved
+Session imported	bench.imported
+Session log	docs.diagram.crash-reporting.n.LOG
+Session playback	watcher.viewerTitle
+Session recorder	plugins.actionRecorderSet
+Session Recorder	plugins.ep.recorder
+Session recordings	settings.exportReplays
+Session replay	watcher.replayTitle
+set activity	docs.diagram.discord-rpc.e.setActivity
+Set category	ai.lt.act.category
+Set theme	sched.act.theme.set
+Set up	ai.draft.setUp
+Set variable	plugins.actionSetVariable
+set_active_profile	docs.diagram.profile-system.n.SWITCH
+set_discord_presence	docs.diagram.discord-rpc.n.PRESENCE
+Setting	ai.ask.iSetting
+Setting on?	docs.diagram.discord-rpc.n.ENABLED
+Settings	settings.export.settings
+Settings applied!	security.modal.settingsApplied
+Settings card	sched.nv.card
+Settings cards	skd.kind.settings
+Settings restored	history.undo.settingsDone
+Settings sections	settings.indexLabel
+Several candidates	orderList.st.ambiguous
+Severity	laya.fb.fSeverity
+SHA worker	docs.diagram.integrity-engine.n.WORKER
+SHA-256	docs.diagram.blake3-hashing.n.SHA
+SHA-256 Checksum	plugins.checksumTitle
+SHA-256 matches?	docs.diagram.app-catalog.n.CHECKSUM
+Shape	themes.ed.grp.shape
+Share	themes.share
+Share "{m}"	orderList.shareTitle
+Share (.bmmtut)…	tuthub.export
+Share it	repo.static.md.shareTitle
+Share layout	cardorder.share
+Share link	repo.tool.share.t
+Share Mode	modpack.shareMode
+shared	conflict.sharedCount
+Shared Modpacks	modpack.sharedModpacks
+Shared variables	sched.sv.title
+Short	ai.draft.length.short
+Short description...	mod.descPlaceholder
+Shortcut	oldInstalls.kindShortcut
+Shortcuts exported.	skd.exported
+Shorten	ai.draft.p.shorten
+Show	tstudio.filterLabel
+Show again	rstudio.unhide
+Show changes	cv.showChanges
+Show everything	conflict.reset
+Show it	stm.presets.recShow
+Show me	tut.showMe
+Show message	plugins.actionShowMessage
+Show notes	settings.showNotes
+Show notification	sched.act.notify
+Show on	themes.ceScope
+Show only	ai.lt.act.none
+Show parts...	hub.showParts
+Show percentages	ai.lt.f.show
+Show Tasky	settings.taskyVisible
+Show tips	mapper.showTips
+shown	i18n.shown
+shows	sched.dr.e.nav
+Shows: {w}	sched.dr.navShows
+Sidebar	themes.tok.bg-sidebar
+Sidebar items	themes.ed.pair.nav
+Sidebar logo	themes.assetLogo
+Sign out	bcv2.account.signOut
+Signal name	plugins.fldSignalName
+Signature	catsrc.details.signature
+signature added	repo.convert.kind.signature_added
+Signature changed	repo.sig.mismatch
+Signature missing	repo.sig.missing
+signature redone	repo.convert.kind.signature_invalid
+Signed	repo.sig.chipValid
+Signed package.	sched.pkg.sigValidShort
+Signed, verified	catsrc.sig.verified
+Silent	stm.presets.int.silent
+Silent Launch	docs.launchPacks.q1
+Silent Mode	docs.updates.silent
+Similar from	tools.dupprofiles.threshold
+Simple	themes.tabSimple
+Simple updates	docs.docker.adv3
+since {year}	credits.codeSince
+Single profile	modpack.singleProfile
+Size	bench.scale
+Size (bytes)	apps.create.fSize
+size (bytes)	sched.sizeBytes
+size corrected	repo.convert.kind.size_changed
+Size differs	laya.dbg.whySize
+Skip	skd.imp.skip
+skip	docs.diagram.resumable-downloads.e.skip
+Skip tutorial	tut.skip
+skipped	anim.import.skipped
+Slack channel	sched.chat.gSlack
+slim copy	docs.diagram.mod-architecture.e.slimCopy
+Slowest	laya.dbg.statMax
+Smallest download	apps.sort.size
+Smart copying	docs.basic.conflict.q2
+Smart Cycle	docs.updateCycle.title
+Smart I/O	storage.smartIoTitle
+smart on	docs.diagram.semantic-search.e.smartOn
+Smart Reco	docs.search.recoList
+Smart Restart	docs.updates.restart
+Smart search	ai.ask.smart
+Snapping off	sched.flow.snapOff
+Snapping on	sched.flow.snapOn
+Snooze	notif.snooze
+Snoozed	notif.snoozedTitle
+software renderer	storage.hwSoftware
+Some risk	nbx.riskMid
+Sort	apps.sort.aria
+Sorting	ai.gen.clsTitle
+Sound	settings.sub.sound
+Sound effects	settings.soundEnabled
+Source	i18n.source
+Source added.	catsrc.added
+Source address	srcacc.url
+Source code	credits.stackRepo
+Source path	repo.mini.syncSource
+Source removed.	catsrc.removed
+Source saved.	catsrc.saved
+Sources	dev.tab.sources
+Sources checked.	catsrc.checked
+Space alerts	docs.diagram.faq-disk-full.n.ALERTS
+SPEED	repo.monColSpeed
+Speed	repo.monSpeed
+Speed cap	stm.space.limit
+spinning disk	storage.hwSpinning
+Spotlight	tutc.style.spot
+SSD	stm.presets.k.ssd
+SSH	repo.sync.useSsh
+SSH server	repo.syncSshTarget
+SSH servers	sshsrv.title
+ssh://name/path (server)	repo.update.urlPh
+Stable	update.channelStable
+Stacked (icons)	settings.toolbarStacked
+Stacked (labels)	settings.toolbarStackedLabels
+Staff	credits.sections.staff
+Stages	bench.ui.stages
+Stagger (s)	anim.stagger
+Standalone mini-server	repo.tool.mini.t
+Standalone server	docs.diagram.hosting-flow.n.STANDALONE
+Start	bench.start
+START	sched.flowStart
+Start again	apps.create.clear
+Start again?	themes.ed.resetQuestion
+Start colour	themes.gradColor1
+Start DCS	sched.dg.launchYes
+Start from	themes.ed.startFrom
+start from	docs.diagram.theme-system.e.startFrom
+Start here	rstudio.setstart
+Start it	sched.srv.state.start
+Start Monitoring	bench.startMonitoring
+Start over	plugins.pc.startOver
+Start Recording	bench.startRec
+Start server	repo.head.start
+Start sharing	repo.hostStart
+Start-up animation	gfx.intro
+Start-up fade	themes.tok.intro-duration
+Start-up picture	themes.tok.loader-img
+Start-up screen	themes.tok.loader-bg
+start_benchmark sampler	docs.diagram.perf-monitoring.n.SAMPLER
+started.	sched.gl.started
+Starting...	repo.syncStarting
+Starting…	repo.update.starting
+starting…	sched.run.starting
+Starts	anim.start
+starts	docs.diagram.code-stack.e.starts
+Startup checklist	sched.preset.startupChecklist
+State	conflict.fStatus
+State Bridge	docs.mcp.q3
+Static directory	repo.hub.modeStatic
+Status	common.status
+Status changes	docs.diagram.discord-rpc.n.EVENTS
+stays local	docs.diagram.telemetry-pipeline.e.staysLocal
+STEP	common.step
+Step	anim.step
+step	sched.dbg.stepPath
+Step failed	sched.stepFail
+Step finished.	sched.stepDone
+Step title	tutc.stepTitle
+Step tree	docs.diagram.bmmscript-flow.n.TREE
+Step {current}/{total}	hub.step
+step(s)	sched.tcb.steps
+stepping	sched.dbg.modeStep
+Steps	docs.publishStepsTitle
+steps	sched.steps
+steps done	hub.stepsLabel
+Stop	sha.cancel
+STOP	sched.stop
+stop	docs.diagram.mod-activation.e.stop
+Stop following	repo.follow.remove
+Stop Host	plugins.ep.stopHost
+Stop it	sched.srv.state.stop
+Stop programs	sched.allowStopTitle
+Stop Recording	bench.stopRecording
+Stop script	plugins.actionStopScript
+Stop server	repo.head.stop
+Stop sharing	repo.hostStop
+Stop video	rstudio.vstop
+stopped	sched.stopped
+Stopping	actjob.cancelling
+Stopping…	mm.stopping
+stopping…	sched.run.stopping
+storage	navedit.capStorage
+Storage Alerts	docs.storageAlerts
+Storage FAQ	settings.storageHelpBtn
+Storage manager	settings.storageTitle
+Storage Manager	storage.modalTitle
+Store key	ai.settings.saveKey
+Stored state	docs.diagram.profile-system.g.STORE
+STRICT	plugins.strict
+Strict	navedit.presetStrict
+Strict integrity	settings.shaStrictMode
+Strict mode	plugins.applyStrictTitle
+Strikethrough	orderList.fmt.strike
+strings	i18n.hcFindings
+Structure Diagnostic	mapper.diagnosticTitle
+Studios	dev.nav.studios
+Style	ai.draft.creativity
+Stylesheet rules	dev.title.cssRules
+Sub-folder	mapper.subfolder
+Sub-folders	mapper.statsSub
+Sub-task finished	sched.subTaskDone
+subcommand	docs.diagram.mcp-server.e.subcommand
+Subheading	orderList.fmt.h3
+Submission failed	feedback.errorSubmit
+Subscribers sync	docs.diagram.docker-deployment.n.CLIENTS
+Success	themes.tok.success
+Successfully completed	repo.stepFinished
+Suggested	storage.suggestedLimit
+Suggested key	i18n.hcSuggested
+Suggestion	fbm.kind.feedback
+Suggestions	betahub.tabSuggestions
+Suggestions ({n})	ai.sug3.rowsTitle
+Summary	docs.modact.simple.title
+Sun	sched.dow0
+Sun,Mon,Tue,Wed,Thu,Fri,Sat	sched.dayNames
+Support development	credits.kofiSub
+Supported Formats	docs.scriptGenFormats
+Sure enough?	docs.diagram.laya-crash-analysis.n.DECIDE
+Surface	themes.swSurface
+Surfaces	themes.ed.basic.surface
+Swap Memory	bench.swap
+Switch	sched.addSwitch
+SWITCH	sched.switch
+Switch off	catsrc.act.disable
+switched off	sched.pc.off
+Symbolic Links	docs.whatIsBmm.feat2.title
+Sync	repo.tabSync
+SYNC	repo.joinColumnLabel
+Sync Error	repo.syncError
+SYNC FLOW	docs.exploreSync
+Sync Logic	docs.gallery.btn.modSync
+Sync Mode	repo.syncMode
+Sync mode	plugins.qt.syncMode
+Sync now	repo.head.syncNow
+Sync Options	repo.syncOptions
+Sync options	repo.tool.syncOptions.t
+Sync Repo	plugins.ep.repoSync
+Sync repo	plugins.actionSyncRepo
+Sync schedule	repo.mini.syncSchedule
+Sync steps	repo.flow.syncAria
+Sync stops	docs.diagram.resumable-downloads.n.FAIL
+Synchronization Cancelled	repo.syncCancelled
+Synchronization cancelled.	repo.errSyncCancelled
+Synchronization completed!	repo.syncDone
+Synchronization Finished	repo.summaryTitle
+Synchronization started	repo.syncStarted
+Synchronize	docs.repo.syncing
+Synchronizing...	repo.syncing
+Syncing	repo.adv.groupSync
+Synonyms	docs.diagram.i18n-system.n.SYN
+System	plugins.actionGroupSystem
+SYSTEM HALT	dev.crash.title
+system info	navedit.capSystem
+System info	navedit.tplSystem
+t(key, params)	docs.diagram.i18n-system.n.T
+Tab	sched.nv.tab
+Table	orderList.fmt.table
+Tag	ai.field.tags
+tag	sched.ai.tagPh
+Tag created.	settings.tagCreated
+Tag deleted.	settings.tagDeleted
+Tag name	settings.tagNamePlaceholder
+Tag updated	settings.tagUpdated
+Tags	detail.tags
+Takes:	sched.hover.params
+Target	i18n.target
+Target Game	modpack.game
+Target selector	anim.selector
+Task	plugins.fldTask
+Task actions	sched.head.actions
+Task editor	docs.diagram.scheduler.n.EDITOR
+Task id	plugins.fldTaskId
+TASKS	dev.label.tasks
+Tasky	settings.sub.tasky
+TASKY	onboarding.tasky
+Tasky animation	settings.taskyAnimation
+Tasky mascot	themes.assetMascot
+Tasky settings	style.tasky
+Tasky size	themes.tok.mascot-w
+Tasky's tooltips	themes.ed.pair.tooltip
+TB	stm.unit.tb
+Technical	faq.category.tech
+Technical Architecture	credits.stackTitle
+Technical Stack	docs.gallery.btn.codeStack
+Telemetry	consent.doc.telemetry
+Telemetry consent	plugins.actionTelemetryConsent
+Telemetry Consent	plugins.ep.telConsent
+Telemetry exported	analytics.exported
+Telemetry options	plugins.actionTelemetrySettings
+Telemetry pipeline	docs.diagram.telemetry-pipeline.title
+Telemetry service	docs.diagram.telemetry-pipeline.n.SERVER
+Telemetry Settings	plugins.ep.telSettings
+Telemetry settings	plugins.dl.telemetry/set.desc
+Tell me	repo.follow.actNotify
+tells you	sched.rf.act.notify
+temp file	docs.diagram.profile-customization.e.tempFile
+Temperature	laya.dbg.temperature
+Templates	auto.templates
+Test	catsrc.editor.test
+Test answer	ai.gen.step.chat
+Test connection	ai.settings.test
+Test Laya	ai.emb.test
+Test passed	sshsrv.stTestOk
+Test run	sched.testRun
+Testing Team	credits.subcategory.testingTeam
+Testing...	storage.benchmarking
+Testing…	fbc.testing
+Text	themes.text
+text	orderList.fmt.wText
+Text (optional)	ai.draft.textOptional
+text becomes…	tutc.wait.text
+Text language	tutc.lang
+The concept	docs.basic.modding.q1
+The handler	docs.diagram.deeplinks.n.HANDLER
+The link	docs.diagram.one-click-install.g.LINK
+The rest	plugins.dlGrp.other
+The site	bc.site
+The tour	tut.quick.tour.title
+Theme	theme.title
+Theme (.bmmtheme)	sched.imp.k.theme
+Theme applied	themes.deeplink.apply
+Theme catalogue	themes.catalogue
+Theme catalogues	themes.cataloguesTitle
+Theme Editor	themes.editorTitle
+Theme editor	navedit.act.themeEditor
+Theme engine	docs.diagram.theme-system.g.ENGINE
+Theme exported	themes.exported
+Theme imported	themes.imported
+theme imported	sched.imp.theme
+Theme name	themes.ed.nameLabel
+Theme name:	themes.enterName
+Theme presets	restore.s.theme-presets
+Theme reinstalled	themes.reinstalled
+Theme saved	themes.saved
+Theme System	docs.gallery.btn.themeSystem
+Theme system	docs.diagram.theme-system.title
+Theme uninstalled	themes.uninstalled
+theme(s)	themes.themes
+Themes	settings.exportThemes
+themes	sched.cond.kind.theme
+THEN	sched.then
+Then	ai.lt.t.action
+then =	sched.tnTrue
+Then =	plugins.fldThenVal
+Then…	fbm.stepPh
+this disk	res.src.disk
+This folder	repo.ssh.routeFrom
+This page	nbx.managePage
+This PC	stm.presets.pcTitle
+this rule	res.src.disk_op
+This session	tools.logs.current
+Thread Architecture	docs.gallery.btn.engineThreads
+threads	docs.diagram.disk-io-limiter.e.threads
+Threshold	laya.dbg.threshold
+Throughput	bench.chartTput
+Thu	sched.dow4
+Thumbnail URL	apps.create.fThumb
+Tick all	ai.lib.tickAll
+ticked only	docs.diagram.custom-pages.e.ticked
+Tiered scorer	docs.diagram.semantic-search.n.SCORER
+Time	sched.cgrp.time
+Time shown	bench.ui.rangeAria
+Time: {time}	bench.pointTime
+Timeline	dev.tab.timeline
+timeout	sched.timeout
+Timeout (s)	plugins.fldTimeoutSec
+Timeout (seconds)	sched.nv.timeout
+times	sched.loopTimes
+Times	plugins.fldTimes
+TIP	update.alert.tip
+Tip callout	orderList.fmt.tip
+Title	fbm.fTitle
+Title (English)	tutc.name
+title (optional)	sched.appTitlePh
+Title bar	themes.tok.bg-titlebar
+Titre (français)	tutc.nameFr
+to	rstudio.cutto
+To download	repo.remoteDownload
+to enable	modpack.act.tEnable
+To hash	repo.remoteHashed
+Toasts	i18n.filterToasts
+Today	history.today
+Toggle View	lib.toggleView
+toggled	docs.diagram.discord-rpc.e.toggle
+Token copied	plugins.qtTokenCopied
+Token revoked	plugins.qtTokenRevoked
+Tomorrow 9:00	notif.snoozeTomorrow
+Too low	themes.ed.gradeFail
+Too slow	ai.gen.code.timeout
+Tool	nbx.badge.modal
+Toolbar	settings.tabToolbar
+Tools	nbx.icCat.tools
+Tools: {n}	repo.adv.count
+Tooltip border	themes.tok.tasky-bubble-border
+Tooltip corners	themes.tok.tasky-bubble-radius
+Tooltip fill	themes.tok.tasky-bubble-bg
+Tooltip text	themes.tok.tasky-bubble-text
+Top-k	laya.dbg.topk
+Total	bench.colTotal
+Total captured	dev.session.buffer
+Total Portability	docs.modpacks.portability
+Total size	mapper.pv.size
+Total Size:	repo.totalSize
+TOTAL SPEED	repo.monStatSpeed
+Total time	bench.ui.totalTime
+Total Weight	mm.totalWeight
+tracked	docs.diagram.mod-architecture.e.tracked
+Transfer	docs.diagram.resumable-downloads.g.TRANSFER
+Transfer complete!	mod.transferComplete
+Translate EN↔FR	ai.draft.p.translate
+Translated	i18n.translated
+Translated text	docs.diagram.i18n-system.n.TEXT
+Translating BMM	tut.other.translate.title
+Translation keys	i18n.tabKeys
+Translation sandbox	docs.diagram.i18n-system.n.SANDBOX
+Translation studio	settings.langSandbox
+Translations	settings.exportTranslations
+Transparent bars	settings.toolbarTransparent
+Tree	mapper.pv.tree
+Tree copied.	mg.copied
+Trigger	sched.fTrigger
+trusted	docs.diagram.deeplinks.e.trusted
+Trusted	sshsrv.fpTrusted
+Trusted sources	docs.appCatalog.feat3.title
+TRY	sched.try
+Try	ai.lt.testGo
+Try again	update.retry
+Try drafting	ai.gen.tryDraft
+Try it	ai.lt.test
+Tue	sched.dow2
+turn off	sched.prev.w.disable
+turn on	sched.prev.w.enable
+Turn on	nbx.turnOn
+Tutorial (Tasky)	settings.tutorialTitle
+Tutorial Assets	hub.assets.title
+Tutorial catalogues	tutcat.title
+Tutorial Complete!	hub.done
+Tutorial deleted.	tuthub.deleted
+Tutorial exported.	tuthub.exported
+Tutorial imported	tuthub.imported
+Tutorials	settings.catIndex.type.tutorial
+Two documents	navedit.tplMulti
+Two timers	docs.diagram.offline-mode.n.TIMERS
+Two trees	docs.diagram.mod-mapper.g.READ
+Type	conflict.fType
+Type here	tut.showme.type
+TypeScript modules	docs.diagram.code-stack.n.MODULES
+Typography	themes.ed.grp.type
+UI-driven	plugins.qtUIDrivenLabel
+Ultra-fast setup	faq.cf.ngrok1
+Ultra-simple updates	faq.docker.with3
+Unavailable	settings.updateUnavailable
+unchanged	docs.diagram.cache-management.e.unchanged
+Understood!	ptb.understood
+Undo	themes.ed.undo
+Undo (Ctrl+Z)	themes.ed.undoTip
+Undo removal	plugins.undoRemove
+Undo {p}	stm.presets.undo
+Undone	sched.undone
+Unexpected files	integrity.added
+Unfavorite	repo.unfavorite
+Unified CLI	docs.mcp.q2
+Uninstall	plugins.uninstall
+Uninstall App	plugins.ep.uninstallApp
+Uninstall app	plugins.actionUninstallApp
+Uninstall failed	apps.state.removeFailed
+Uninstall plugin	plugins.uninstallTitle
+Uninstalled	apps.history.uninstalled
+Uninstaller launched	apps.uninstall.launched
+Unknown	common.unknown
+Unknown choice.	oldInstalls.errBadMode
+Unknown ease:	anim.badease
+unknown format	tools.validate.unknown
+Unknown installer	oldInstalls.installerUnknown
+unknown key	repo.convert.kind.unknown_key
+Unknown kind	repo.extras.errKind
+Unknown Mod	mod.unknownName
+Unknown package.	pkg.errBadId
+Unknown type	stm.presets.k.unknown
+Unlocks	docs.pagesApi.thUnlocks
+Unmasked replay	analytics.category.replayFull
+Unnamed plugin	plugins.pc.pvNoName
+Unnamed task	plugins.contents.autoUnnamed
+Unpacking	ai.emb.stUnpacking
+Unpacking archives	stm.game.k.extract
+unreachable	sched.pc.unreachable
+Unreachable	settings.catIndex.state.error
+Unreadable	laya.dbg.whyUnreadable
+Unreadable answer	ai.gen.code.bad_response
+Unreadable file	watcher.badFile
+Unrecognised entries	restore.s.other
+Unsaved	orderList.unsaved
+unsaved change(s)	themes.unsaved
+Unsaved changes	themes.ed.unsaved
+Unselect All	common.unselectAll
+unsigned	tuthub.sigUnsigned
+Unsigned	repo.sig.chipUnsigned
+untagged	docs.diagram.blake3-hashing.e.untagged
+Untick all	ai.sug3.none
+until	sched.loop.until
+Untitled	sched.untitled
+Untitled app	apps.create.pvUntitled
+Untitled catalog	plugins.untitledCatalog
+Untitled frame	sched.flow.frameUntitled
+Untitled list	orderList.untitled
+Untitled section	nbx.untitledSection
+Untitled step	tutc.untitled
+Untranslated text	tstudio.tabScan
+Unverified	repo.unverified
+unverified	mods.unverified
+Unverified download	apps.install.noShaWarnTitle
+Unverified mods	repo.discoverUnverified
+Up	nbx.moveUp
+Update	mod.updateTag
+UPDATE	repo.remoteRefresh
+Update address	detail.upd.url
+Update available	mod.updateAvailable
+update available	sched.updateAvail
+Update Available!	settings.updateAvailableTitle
+Update channel	update.channelLabel
+Update check	docs.diagram.app-update.n.START
+Update Cycle	docs.gallery.btn.appUpdate
+Update dialog	docs.diagram.app-update.n.MODAL
+Update failed	apps.state.updateFailed
+Update leftovers	tools.cache.t.update_leftovers
+Update Mod	plugins.ep.updateMod
+Update mod	plugins.actionUpdateMod
+Update Modpack	plugins.ep.updateMp
+Update modpack	plugins.endpointUpdateModpack
+Update mods	plugins.dl.mod/update.desc
+Update notes	settings.updateNotes
+Update Profile	plugins.ep.updateProf
+Update profile	plugins.actionUpdateProfile
+Update Repo	plugins.ep.repoUpdate
+Update repo	plugins.actionUpdateRepo
+Update sources	repo.cfgTitle
+Update System	docs.gallery.btn.updateSystem
+Update:	repo.syncUpdate
+update_profile	docs.diagram.profile-system.n.EDIT
+updated	repo.summaryUpdated
+Updated	bench.ui.miniUpdated
+Updated {date}	modpack.updatedAt
+Updates	themes.ed.pv.updates
+UPDATES	docs.exploreUpdate
+Updating	stm.subj.directUpdate
+Updating mods…	repo.stepUpdating
+Updating...	apps.state.updating
+Updating…	repo.directUpdating
+Upload icon…	navedit.uploadIcon
+Upload…	iconpack.upload
+UPnP FAIL	repo.upnpFail
+UPnP OK	repo.upnpOk
+Uptime: 	dev.metric.uptime
+URL	plugins.fldUrl
+Usage	apps.usage
+Usage statistics	analytics.category.usage
+usage, perf	docs.diagram.telemetry-pipeline.e.usagePerf
+Use	themes.advTip
+Use Examples:	hub.guideExamples
+Use it	tut.other.launchpack.s2.title
+Use this	apps.useThis
+Used	stm.space.used
+Used by	credits.stackUsedBy
+Used in	i18n.usedIn
+User	repo.ssh.user
+user	docs.diagram.lightweight-architecture.e.user
+User (Simple)	repo.typeUser
+User Input	docs.search.inputLabel
+Utility	apps.cat.utility
+valid	docs.diagram.common.valid
+Valid signature	repo.sig.valid
+Validate it	repo.quick.thenValidate
+Validate Repo	plugins.ep.repoValidate
+Value	plugins.fldValue
+value	sched.phValue
+value tidied	repo.convert.kind.value_normalised
+Variable	plugins.fldVariable
+variable	sched.cond.varPh
+Variable name	plugins.fldVarName
+Variables	tstudio.vars
+Variant	laya.dbg.variant
+Verified	sha.state.verified
+Verified Integrity	hashes.status.verified
+Verified mods	repo.discoverVerified
+Verified ✔	repo.verified
+Verify	sha.verify
+Verify integrity	lib.verifyTitle
+Verify selected	sha.verifySel
+Verifying	stm.subj.integrity
+Version	settings.identity.version
+Version (optional)	plugins.qtCatAppVer
+Version conflicts	faq.docker.without2
+Version {v}	update.versionN
+Versions	update.tabVersions
+Vertical Spacing	dev.label.gridV
+via	apps.sources.via
+via {i}	catsrc.via
+video clip	dev.export.clip
+video n/a	rstudio.vunavail
+Video saved	watcher.vsaved
+View	orderList.view.label
+View archives	update.showOld
+View assets	hub.assets.viewBtn
+VIEW DEPLOYMENT	docs.viewDeployment
+VIEW DIAGRAM	docs.viewDiagram
+VIEW LIFECYCLE	docs.exploreLifecycle
+VIEW MONITORING	docs.explorePerf
+View notes	settings.viewNotes
+View Older	betahub.viewOlder
+VIEW SCENARIO	docs.exploreDeletedMod
+VIEW SYSTEM	docs.exploreProfiles
+Virtual Integration	docs.mech.virtual.title
+Virtual Memory	bench.virtual
+visible	tstudio.placeVisible
+VISUAL	update.badge.visual
+VISUAL ICON	prof.iconPickerTitle
+Visual replay	plugins.fldReplay
+Volume	settings.soundVolume
+volumes	docs.diagram.docker-deployment.e.mounts
+VPS Linux	faq.vps.vpsTitle
+V{version}	common.version
+v{v} available	plugins.updateAvail
+Wait	sched.addDelay
+Wait (sleep)	plugins.actionWait
+Wait until	sched.addWaitFor
+WAIT UNTIL	sched.waitUntil
+waiting	res.st.waiting
+Waiting	activity.waiting
+Wallpaper	themes.tok.app-bg-image
+Wallpaper blur	themes.tok.app-bg-blur
+Wallpaper fit	themes.tok.app-bg-size
+Wallpaper opacity	themes.tok.app-bg-opacity
+Wallpaper position	themes.tok.app-bg-position
+Warning	themes.tok.warning
+WARNING	update.alert.warning
+Warning callout	orderList.fmt.warning
+Warnings	notif.f_warning
+was disabled	docs.diagram.faq-deleted-mod.e.wasDisabled
+was enabled	docs.diagram.faq-deleted-mod.e.wasEnabled
+Watching something	sched.presetCat.watch
+watching {f}	sched.gw.ready
+Ways in	docs.diagram.mod-import.g.IN
+Weak	fbm.q.weak
+Webhook address	sched.wh.url
+Website	credits.stackHome
+Wed	sched.dow3
+Weekend run	themes.ed.pv.fieldValue
+weekly	docs.diagram.perf-monitoring.e.weekly
+Weekly backup	sched.preset.backup
+Weekly benchmark	plugins.fldWeeklyBench
+Welcome!	onboard.s1.title
+What	sched.nv.kind
+What changed	history.changes
+What happened	fbm.what
+Wheel down	sk.dev.wheelDown
+Wheel up	sk.dev.wheelUp
+when	sched.ruleWhen
+When unsure	laya.dbg.abstain
+Which article	sched.view.article
+Which catalogue	sched.catEnt.type
+Which is	dlg.name
+Which mod	sched.mod.which
+Which modpack	sched.mp.which
+Which mods	sha.scope
+Which one	tutc.wait.which
+Which profile	sched.prof.which
+Which screen	sched.view.which
+Which task	sched.arm.which
+while	sched.loop.while
+Whitelist	repo.whitelist
+Whitelist (Custom)	modpack.shareWhitelistCustom
+Whitelist (Repo)	modpack.shareWhitelistRepo
+Whitelist cleared.	repo.whitelistClearSuccess
+Whitelist Management	repo.whitelistTitle
+Whitelist manager	navedit.act.whitelist
+Whitelist ON	srv.filterWhitelistOn
+Whitelist updated.	repo.whitelistUpdated
+Who asks	docs.diagram.laya-pipeline.g.ASK
+Who connects	repo.tool.admin.t
+Whole app	themes.scopeGlobal
+Why {p}:	stm.presets.whyTitle
+Why?	docs.ioLimiter.why
+Will remove	repo.update.removed
+Window (WebView2)	docs.diagram.engine-threads.n.WEBVIEW
+Window error	docs.diagram.crash-reporting.n.JS_ERROR
+Window position	tut.win.mode
+Windows	sched.view.gWindows
+Windows autostart	docs.diagram.lightweight-architecture.n.AUTOSTART
+Wire	sched.flow.edgeMenu
+With Docker	docs.docker.advantages
+with previous	anim.start.with
+Withdrawn	consent.choice.withdrawn
+Without Docker	faq.docker.withoutTitle
+Words	tools.logs.filter
+Work intensity	stm.tab.intensity
+Worker Status	settings.shaStatsStatus
+Working…	tools.phase.start
+Works	skd.scope
+worse	bench.ui.worse
+Worth fixing	plugins.check.warnings
+would change	sched.prev.e.change
+writable	sshsrv.writable
+Write	bench.ui.write
+write asked	docs.diagram.laya-pipeline.e.generator
+write error	docs.diagram.faq-disk-full.e.writeError
+write files	sched.perm.fs
+Write note	ai.lt.act.note
+Writer	ai.gen.writerTitle
+Writer: {v}	ai.gen.writerChip
+writes	docs.diagram.common.writes
+Writing	ai.set2.gen
+Writing model	laya.dbg.generative
+Writing: {v}	ai.set2.stGen
+Writing…	ai.draft.writing
+Written answers	ai.set2.fAskGen
+Written here	sched.trScr.here
+written unsigned	sched.exportUnsigned
+wscript	docs.diagram.launch-packs.e.wscript
+Yes	common.yes
+yes	docs.diagram.cache-management.e.built
+Yesterday	history.yesterday
+You	themes.ed.you
+your account	bcv2.account.someone
+Your changes	themes.yourChanges
+Your confirmation	docs.diagram.one-click-install.g.ASK
+Your data	plugins.permDomData
+Your elements	themes.ceYour
+Your laya-serve	docs.diagram.laya-pipeline.n.LAYA_SERVE
+Your mods	ai.ask.iMods
+Your name	plugins.phYourName
+Your nickname	repo.authorPlaceholder
+Your server	repo.run.title
+Your sidebar	nbx.sideTitle
+Your themes	themes.mine
+Your username...	mm.authorPlaceholder
+Yours	catsrc.tier.custom
+Z-Index Layers	dev.tool.zIndex.title
+Zip output	plugins.fldZipOutput
+Zoom	sched.flow.gZoom
+Zoom in	docs.diagram.ui.zoomIn
+Zoom out	docs.diagram.ui.zoomOut
+{b} freed.	tools.cache.cleaned
+{count} file(s)	conflict.filesCount
+{count} mod(s)	modpack.modsCount
+{eta} left	ai.emb.eta
+{lang} created	tstudio.nlCreated
+{name} (copy)	themes.ed.copyName
+{name} missing	i18n.phMissing
+{name} uninstalled.	oldInstalls.lineUninstalled
+{name} updated	apps.state.updatedToast
+{name}: {err}	sched.rf.lineErr
+{n} active	orderList.sum.active
+{n} added	sha.rep.added
+{n} automation(s)	plugins.pc.pvAutomations
+{n} branch(es)	sched.flow.nBranches
+{n} case(s)	sched.flow.nCases
+{n} catalogue(s)	plugins.pc.pvBundles
+{n} changed	sha.rep.modified
+{n} changes	stm.presets.changesN
+{n} characters	orderList.notesChars
+{n} commits	credits.codeCommits
+{n} conflict(s)	mg.conflicts
+{n} copies	tools.duplicates.copies
+{n} dep.	modpack.ui.deps
+{n} endpoint(s)	plugins.epCount
+{n} entries	apps.create.sub.entries
+{n} failed	modpack.act.doneFailed
+{n} failed.	ai.lib.failedN
+{n} file(s)	fbm.sumFiles
+{n} files	sha.filesN
+{n} fixed	update.countFixed
+{n} folder(s)	plugins.pc.pvFolders
+{n} found	docs.diagram.ui.matches
+{n} groups	credits.stackGroupsN
+{n} improved	update.countImproved
+{n} item(s)	plugins.contents.count
+{n} items	catsrc.test.items
+{n} listed	fbm.sumSteps
+{n} match	sha.done.ok
+{n} min	stm.dur.min
+{n} missing	sha.rep.missing
+{n} mod(s)	orderList.count
+{n} mods	repo.update.modN
+{n} moved	order.import.moved
+{n} new	update.countNew
+{n} offline	apps.sourcesBtnOff
+{n} overwritten	mapper.pv.nOver
+{n} packs	modpack.countAll
+{n} permission(s)	plugins.pc.permsN
+{n} posts	community.filter.count
+{n} program(s)	repo.extras.lpDesc
+{n} removed	stm.presets.nRemoved
+{n} result(s)	orderList.pick.results
+{n} rules	dev.label.rules
+{n} s	stm.dur.s
+{n} samples	bench.ui.samples
+{n} saved	order.tools.listsCount
+{n} script(s)	plugins.pc.pvScripts
+{n} selected	settings.appPicker.selected
+{n} shipped	plugins.shipCount
+{n} skipped	sched.pc.skipped
+{n} skipped.	settings.catIndex.skipped
+{n} sources	apps.sourcesBtn
+{n} step(s)	sched.pg.steps
+{n} steps	docs.diagram.ui.nodes
+{n} suggestion(s)	ai.lib.nSugg
+{n} tasks	ai.lt.nTasks
+{n} unread	notif.unreadN
+{n} update(s)	repo.follow.updates
+{n} updates	apps.updatesMany
+{n} value(s)	sched.dbg.trailN
+{n} waiting	sha.act.queue
+{n} warnings	catsrc.test.warnings
+{n}/{m}	actjob.count
+{p} alike	tools.dupprofiles.similar
+{size} freed	sched.cc.freed
+{size} MB	update.sizeMb
+{speed} MB/s	update.speed
+{s} s	history.took
+{total} tasks	sched.filter.total
+{type} archive	mod.add.kindArchive
+{t} elapsed	bench.ui.elapsed
+{v}: {s}	stm.subj.join
+{where} answered.	sshsrv.stepReached
+{w} duplicated	tools.duplicates.wasted
+{w}: {r}	stm.presets.c.add
+~3–10€/month	faq.vps.vps5
+· measuring…	fbm.budget.measuring
+“{name}” deleted.	nbx.pageDeleted
+“{name}” installed.	modpack.cat.installed
+← game_path	docs.modStructure.treeGamePath
+← original	docs.modStructure.treeOriginal
+← replaces	docs.modStructure.treeReplaces
+← untouched	docs.modStructure.treeUntouched
+● Recording…	watcher.vrec
