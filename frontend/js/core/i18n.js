@@ -8,7 +8,7 @@ let langInfo = {};
 // node test suites, which import COMPILED modules with no browser around them. An
 // unguarded read throws there and takes down the whole file with it, and the failure
 // lands on whichever module happened to import i18n most recently rather than on i18n.
-let currentLang = (typeof localStorage === 'undefined' ? null : localStorage.getItem('bmm-lang')) || 'fr';
+let currentLang = (typeof localStorage === 'undefined' ? null : localStorage.getItem('bmm-lang')) || 'ru';
 let loaded = false;
 /** Synonym groups per language: { lang: { canonical: [synonyms] } } */
 let synonymsStore = {};
@@ -37,9 +37,9 @@ export async function initI18n() {
         const { getSettings, invoke } = await import('./api.js');
         const [langs, settings] = await Promise.all([
             invoke('get_available_languages').catch(() => ['fr', 'en']),
-            getSettings().catch(() => ({ language: 'fr' }))
+            getSettings().catch(() => ({ language: 'ru' }))
         ]);
-        currentLang = settings.language || 'fr';
+        currentLang = settings.language || 'ru';
         await Promise.all(langs.map((l) => loadLang(l)));
     }
     catch (e) {

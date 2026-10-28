@@ -263,7 +263,7 @@ fn default_sound_volume() -> u32 { 70 }
 fn default_filter() -> String { "all".to_string() }
 fn default_sort() -> String { "name_asc".to_string() }
 
-fn default_lang() -> String { "fr".to_string() }
+fn default_lang() -> String { "ru".to_string() }
 fn default_storage_warning() -> u32 { 40 }
 fn default_storage_critical() -> u32 { 30 }
 fn default_history_retention() -> u32 { 30 }

@@ -615,7 +615,7 @@ pub struct IncrementalResult {
     pub errors: Vec<String>,
 }
 
-const DEFAULT_UPDATE_API: &str = "https://api.github.com/repos/FreeProject089/BetterModsManager/releases";
+const DEFAULT_UPDATE_API: &str = "https://api.github.com/repos/bogdan984/BetterModsManager/releases";
 
 /// The URL to ask for a release list or for the latest one.
 ///
@@ -801,7 +801,9 @@ pub(crate) fn release_to_info(body: &serde_json::Value, current_version: &str, i
 pub async fn check_for_update(app_handle: tauri::AppHandle, include_prerelease: Option<bool>, api_base_url: Option<String>, fallback_api_url: Option<String>) -> Result<UpdateInfo, String> {
     let current_version = app_handle.package_info().version.to_string();
     let include_pre = effective_include_pre(include_prerelease.unwrap_or(false), &current_version);
-    let api_base = api_base_url.as_deref().unwrap_or(DEFAULT_UPDATE_API);
+    // RU fork: always the fork's feed — links.json (loaded remotely) points at upstream.
+    let _ = (api_base_url, fallback_api_url);
+    let (api_base, fallback_api_url) = (DEFAULT_UPDATE_API, None::<String>);
     log_line(format!("[UPDATE] Checking for updates (current: v{}, prerelease: {})", current_version, include_pre));
 
     let client = reqwest::Client::builder()
@@ -1095,9 +1097,9 @@ async fn launch_installer_and_exit(app_handle: &tauri::AppHandle, file_path: &st
 // file that differs from it is treated as a mismatch.
 
 /// Every installer BMM downloads from a release lives under this prefix.
-pub const REPO_DOWNLOAD_PREFIX: &str = "https://github.com/FreeProject089/BetterModsManager/releases/download/";
+pub const REPO_DOWNLOAD_PREFIX: &str = "https://github.com/bogdan984/BetterModsManager/releases/download/";
 /// The release is re-read from here, by tag, at install time.
-const RELEASE_BY_TAG_API: &str = "https://api.github.com/repos/FreeProject089/BetterModsManager/releases/tags/";
+const RELEASE_BY_TAG_API: &str = "https://api.github.com/repos/bogdan984/BetterModsManager/releases/tags/";
 /// BetterInstaller's context string for `update.json` (bpkg-core/src/update.rs).
 pub const BI_MANIFEST_SIG_CONTEXT: &[u8] = b"BetterInstaller update manifest v1\n";
 const RELEASE_JSON_MAX_BYTES: usize = 4 * 1024 * 1024;

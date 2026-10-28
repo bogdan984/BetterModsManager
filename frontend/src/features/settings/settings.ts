@@ -476,7 +476,7 @@ async function initLanguageSettings() {
             </button>
             <div class="settings-lang-menu" id="settings-lang-menu">
                 ${languages.map(l => {
-                    const protectedLang = ['en', 'fr', 'template'].includes((l.code || '').toLowerCase());
+                    const protectedLang = ['en', 'fr', 'ru', 'template'].includes((l.code || '').toLowerCase());
                     return `
                     <div class="nav-lang-row${l.active ? ' active' : ''}">
                         <button class="nav-lang-option" data-lang="${l.code}" style="flex:1;">
